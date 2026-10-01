@@ -1,0 +1,10 @@
+.DS_Store
+output/
+outputs/
+tmp/
+reference_extracts/
+cad/
+node_modules/
+.env
+.env.*
+*.bak
