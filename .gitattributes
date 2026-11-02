@@ -3,3 +3,8 @@ models/review/*.step filter=lfs diff=lfs merge=lfs -text
 models/Parts/** -filter -diff -merge -text
 models/Print_Blanks/** -filter -diff -merge -text
 *.solidcraft -filter -diff -merge -text
+models/STEP/Parts/** -filter -diff -merge -text
+models/STEP/Purchased_Components/** -filter -diff -merge -text
+models/SolidWorks/** -filter -diff -merge -text
+models/STEP/*.step -filter -diff -merge -text
+models/Drawings/*.pdf -diff -merge -text
