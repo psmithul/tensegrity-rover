@@ -1,0 +1,979 @@
+Part,Rover quantity,Joint quantity,SolidCraft file,STEP file,Editing
+Tension Cable 1 Exposed Span,6,1,,Parts/Standard_Parts/Tension_Cable_1_Exposed_Span.step,Separate solid component
+Tension Cable 2 Exposed Span,6,1,,Parts/Standard_Parts/Tension_Cable_2_Exposed_Span.step,Separate solid component
+Tension Cable 3 Exposed Span,6,1,,Parts/Standard_Parts/Tension_Cable_3_Exposed_Span.step,Separate solid component
+Cable Anchor Ball Stud,9,3,Parts/Suspension/Cable_Anchor_Ball_Stud.solidcraft,Parts/Suspension/Cable_Anchor_Ball_Stud.step,Sketch and feature source
+Cable Anchor Ball Stud Left,9,0,Parts/Suspension/Cable_Anchor_Ball_Stud_Left.solidcraft,Parts/Suspension/Cable_Anchor_Ball_Stud_Left.step,Sketch and feature source
+Moving Cable Anchor Thread Insert 1,6,1,,Parts/Standard_Parts/Moving_Cable_Anchor_Thread_Insert_1.step,Separate solid component
+Cable End Ball Socket,9,3,Parts/Suspension/Cable_End_Ball_Socket.solidcraft,Parts/Suspension/Cable_End_Ball_Socket.step,Sketch and feature source
+Cable End Ball Socket Left,9,0,Parts/Suspension/Cable_End_Ball_Socket_Left.solidcraft,Parts/Suspension/Cable_End_Ball_Socket_Left.step,Sketch and feature source
+Moving Cable Anchor Thread Insert 2,6,1,,Parts/Standard_Parts/Moving_Cable_Anchor_Thread_Insert_2.step,Separate solid component
+Moving Cable Anchor Thread Insert 3,6,1,,Parts/Standard_Parts/Moving_Cable_Anchor_Thread_Insert_3.step,Separate solid component
+Fixed Suspension Frame,3,1,Parts/Suspension/Fixed_Suspension_Frame.solidcraft,Parts/Suspension/Fixed_Suspension_Frame.step,Sketch and feature source
+Fixed Suspension Frame Left,3,0,Parts/Suspension/Fixed_Suspension_Frame_Left.solidcraft,Parts/Suspension/Fixed_Suspension_Frame_Left.step,Sketch and feature source
+Frame and Cable Support Mounting Bolt 1,6,1,,Parts/Standard_Parts/Frame_and_Cable_Support_Mounting_Bolt_1.step,Separate solid component
+Frame and Cable Support Mounting Bolt 2,6,1,,Parts/Standard_Parts/Frame_and_Cable_Support_Mounting_Bolt_2.step,Separate solid component
+Frame and Cable Support Mounting Bolt 3,6,1,,Parts/Standard_Parts/Frame_and_Cable_Support_Mounting_Bolt_3.step,Separate solid component
+Moving Tensegrity Frame,3,1,Parts/Suspension/Moving_Tensegrity_Frame.solidcraft,Parts/Suspension/Moving_Tensegrity_Frame.step,Sketch and feature source
+Moving Tensegrity Frame Left,3,0,Parts/Suspension/Moving_Tensegrity_Frame_Left.solidcraft,Parts/Suspension/Moving_Tensegrity_Frame_Left.step,Sketch and feature source
+Suspension Pivot Shaft,3,1,Parts/Suspension/Suspension_Pivot_Shaft.solidcraft,Parts/Suspension/Suspension_Pivot_Shaft.step,Sketch and feature source
+Suspension Pivot Shaft Left,3,0,Parts/Suspension/Suspension_Pivot_Shaft_Left.solidcraft,Parts/Suspension/Suspension_Pivot_Shaft_Left.step,Sketch and feature source
+Pivot Shaft Split Clamp Collar,3,1,Parts/Suspension/Pivot_Shaft_Split_Clamp_Collar.solidcraft,Parts/Suspension/Pivot_Shaft_Split_Clamp_Collar.step,Sketch and feature source
+Pivot Shaft Split Clamp Collar Left,3,0,Parts/Suspension/Pivot_Shaft_Split_Clamp_Collar_Left.solidcraft,Parts/Suspension/Pivot_Shaft_Split_Clamp_Collar_Left.step,Sketch and feature source
+Pivot Shaft Collar M2 Clamp Bolt,6,1,,Parts/Standard_Parts/Pivot_Shaft_Collar_M2_Clamp_Bolt.step,Separate solid component
+Pivot Shaft Collar M2 Clamp Nut,6,1,,Parts/Standard_Parts/Pivot_Shaft_Collar_M2_Clamp_Nut.step,Separate solid component
+Fixed Spindle Collar M2 Mounting Screw 1,6,1,,Parts/Standard_Parts/Fixed_Spindle_Collar_M2_Mounting_Screw_1.step,Separate solid component
+Fixed Spindle Collar M2 Mounting Screw 2,6,1,,Parts/Standard_Parts/Fixed_Spindle_Collar_M2_Mounting_Screw_2.step,Separate solid component
+Fixed Spindle Collar M2 Mounting Screw 3,6,1,,Parts/Standard_Parts/Fixed_Spindle_Collar_M2_Mounting_Screw_3.step,Separate solid component
+Suspension Travel Stop Plate,3,1,Parts/Suspension/Suspension_Travel_Stop_Plate.solidcraft,Parts/Suspension/Suspension_Travel_Stop_Plate.step,Sketch and feature source
+Suspension Travel Stop Plate Left,3,0,Parts/Suspension/Suspension_Travel_Stop_Plate_Left.solidcraft,Parts/Suspension/Suspension_Travel_Stop_Plate_Left.step,Sketch and feature source
+Suspension Travel Stop Pin,3,1,Parts/Suspension/Suspension_Travel_Stop_Pin.solidcraft,Parts/Suspension/Suspension_Travel_Stop_Pin.step,Sketch and feature source
+Suspension Travel Stop Pin Left,3,0,Parts/Suspension/Suspension_Travel_Stop_Pin_Left.solidcraft,Parts/Suspension/Suspension_Travel_Stop_Pin_Left.step,Sketch and feature source
+Travel Stop Clamp M3 Bolt 1,6,1,,Parts/Standard_Parts/Travel_Stop_Clamp_M3_Bolt_1.step,Separate solid component
+Travel Stop Clamp M3 Nut 1,6,1,,Parts/Standard_Parts/Travel_Stop_Clamp_M3_Nut_1.step,Separate solid component
+Travel Stop Clamp M3 Bolt 2,6,1,,Parts/Standard_Parts/Travel_Stop_Clamp_M3_Bolt_2.step,Separate solid component
+Travel Stop Clamp M3 Nut 2,6,1,,Parts/Standard_Parts/Travel_Stop_Clamp_M3_Nut_2.step,Separate solid component
+Compression Inner Strut,6,2,Parts/Suspension/Compression_Inner_Strut.solidcraft,Parts/Suspension/Compression_Inner_Strut.step,Sketch and feature source
+Compression Inner Strut Left,6,0,Parts/Suspension/Compression_Inner_Strut_Left.solidcraft,Parts/Suspension/Compression_Inner_Strut_Left.step,Sketch and feature source
+Compression Outer Sleeve,9,3,Parts/Suspension/Compression_Outer_Sleeve.solidcraft,Parts/Suspension/Compression_Outer_Sleeve.step,Sketch and feature source
+Compression Outer Sleeve Left,9,0,Parts/Suspension/Compression_Outer_Sleeve_Left.solidcraft,Parts/Suspension/Compression_Outer_Sleeve_Left.step,Sketch and feature source
+Torque Pin,9,3,Parts/Suspension/Torque_Pin.solidcraft,Parts/Suspension/Torque_Pin.step,Sketch and feature source
+Torque Pin Left,9,0,Parts/Suspension/Torque_Pin_Left.solidcraft,Parts/Suspension/Torque_Pin_Left.step,Sketch and feature source
+Compression Link 1 Fixed Ball Retainer,3,1,Parts/Suspension/Compression_Link_1_Fixed_Ball_Retainer.solidcraft,Parts/Suspension/Compression_Link_1_Fixed_Ball_Retainer.step,Sketch and feature source
+Compression Link 1 Fixed Ball Retainer Left,3,0,Parts/Suspension/Compression_Link_1_Fixed_Ball_Retainer_Left.solidcraft,Parts/Suspension/Compression_Link_1_Fixed_Ball_Retainer_Left.step,Sketch and feature source
+Retainer Screw ISO4762 M2x6,36,12,Parts/Hardware/Retainer_Screw_ISO4762_M2x6.solidcraft,Parts/Hardware/Retainer_Screw_ISO4762_M2x6.step,Sketch and feature source
+Retainer Screw ISO4762 M2x6 Left,36,0,Parts/Hardware/Retainer_Screw_ISO4762_M2x6_Left.solidcraft,Parts/Hardware/Retainer_Screw_ISO4762_M2x6_Left.step,Sketch and feature source
+Compression Link 1 Moving Ball Retainer,3,1,Parts/Suspension/Compression_Link_1_Moving_Ball_Retainer.solidcraft,Parts/Suspension/Compression_Link_1_Moving_Ball_Retainer.step,Sketch and feature source
+Compression Link 1 Moving Ball Retainer Left,3,0,Parts/Suspension/Compression_Link_1_Moving_Ball_Retainer_Left.solidcraft,Parts/Suspension/Compression_Link_1_Moving_Ball_Retainer_Left.step,Sketch and feature source
+Acetal Torque Guide Bush Locating,3,1,Parts/Suspension/Acetal_Torque_Guide_Bush_Locating.solidcraft,Parts/Suspension/Acetal_Torque_Guide_Bush_Locating.step,Sketch and feature source
+Acetal Torque Guide Bush Locating Left,3,0,Parts/Suspension/Acetal_Torque_Guide_Bush_Locating_Left.solidcraft,Parts/Suspension/Acetal_Torque_Guide_Bush_Locating_Left.step,Sketch and feature source
+Compression Inner Strut Lane2,3,1,Parts/Suspension/Compression_Inner_Strut_Lane2.solidcraft,Parts/Suspension/Compression_Inner_Strut_Lane2.step,Sketch and feature source
+Compression Inner Strut Lane2 Left,3,0,Parts/Suspension/Compression_Inner_Strut_Lane2_Left.solidcraft,Parts/Suspension/Compression_Inner_Strut_Lane2_Left.step,Sketch and feature source
+Compression Link 2 Fixed Ball Retainer,3,1,Parts/Suspension/Compression_Link_2_Fixed_Ball_Retainer.solidcraft,Parts/Suspension/Compression_Link_2_Fixed_Ball_Retainer.step,Sketch and feature source
+Compression Link 2 Fixed Ball Retainer Left,3,0,Parts/Suspension/Compression_Link_2_Fixed_Ball_Retainer_Left.solidcraft,Parts/Suspension/Compression_Link_2_Fixed_Ball_Retainer_Left.step,Sketch and feature source
+Compression Link 2 Moving Ball Retainer,3,1,Parts/Suspension/Compression_Link_2_Moving_Ball_Retainer.solidcraft,Parts/Suspension/Compression_Link_2_Moving_Ball_Retainer.step,Sketch and feature source
+Compression Link 2 Moving Ball Retainer Left,3,0,Parts/Suspension/Compression_Link_2_Moving_Ball_Retainer_Left.solidcraft,Parts/Suspension/Compression_Link_2_Moving_Ball_Retainer_Left.step,Sketch and feature source
+Acetal Torque Guide Bush Relieved,3,1,Parts/Suspension/Acetal_Torque_Guide_Bush_Relieved.solidcraft,Parts/Suspension/Acetal_Torque_Guide_Bush_Relieved.step,Sketch and feature source
+Acetal Torque Guide Bush Relieved Left,3,0,Parts/Suspension/Acetal_Torque_Guide_Bush_Relieved_Left.solidcraft,Parts/Suspension/Acetal_Torque_Guide_Bush_Relieved_Left.step,Sketch and feature source
+Compression Link 3 Fixed Ball Retainer,3,1,Parts/Suspension/Compression_Link_3_Fixed_Ball_Retainer.solidcraft,Parts/Suspension/Compression_Link_3_Fixed_Ball_Retainer.step,Sketch and feature source
+Compression Link 3 Fixed Ball Retainer Left,3,0,Parts/Suspension/Compression_Link_3_Fixed_Ball_Retainer_Left.solidcraft,Parts/Suspension/Compression_Link_3_Fixed_Ball_Retainer_Left.step,Sketch and feature source
+Compression Link 3 Moving Ball Retainer,3,1,Parts/Suspension/Compression_Link_3_Moving_Ball_Retainer.solidcraft,Parts/Suspension/Compression_Link_3_Moving_Ball_Retainer.step,Sketch and feature source
+Compression Link 3 Moving Ball Retainer Left,3,0,Parts/Suspension/Compression_Link_3_Moving_Ball_Retainer_Left.solidcraft,Parts/Suspension/Compression_Link_3_Moving_Ball_Retainer_Left.step,Sketch and feature source
+Acetal Torque Guide Bush Floating,3,1,Parts/Suspension/Acetal_Torque_Guide_Bush_Floating.solidcraft,Parts/Suspension/Acetal_Torque_Guide_Bush_Floating.step,Sketch and feature source
+Acetal Torque Guide Bush Floating Left,3,0,Parts/Suspension/Acetal_Torque_Guide_Bush_Floating_Left.solidcraft,Parts/Suspension/Acetal_Torque_Guide_Bush_Floating_Left.step,Sketch and feature source
+Front Cable Clevis,9,3,Parts/Suspension/Front_Cable_Clevis.solidcraft,Parts/Suspension/Front_Cable_Clevis.step,Sketch and feature source
+Front Cable Clevis Left,9,0,Parts/Suspension/Front_Cable_Clevis_Left.solidcraft,Parts/Suspension/Front_Cable_Clevis_Left.step,Sketch and feature source
+Spring 1 Front M3 Shoulder Bolt,6,1,,Parts/Standard_Parts/Spring_1_Front_M3_Shoulder_Bolt.step,Separate solid component
+Spring 1 Front M3 Retaining Nut,6,1,,Parts/Standard_Parts/Spring_1_Front_M3_Retaining_Nut.step,Separate solid component
+Spring 2 Front M3 Shoulder Bolt,6,1,,Parts/Standard_Parts/Spring_2_Front_M3_Shoulder_Bolt.step,Separate solid component
+Spring 2 Front M3 Retaining Nut,6,1,,Parts/Standard_Parts/Spring_2_Front_M3_Retaining_Nut.step,Separate solid component
+Spring 3 Front M3 Shoulder Bolt,6,1,,Parts/Standard_Parts/Spring_3_Front_M3_Shoulder_Bolt.step,Separate solid component
+Spring 3 Front M3 Retaining Nut,6,1,,Parts/Standard_Parts/Spring_3_Front_M3_Retaining_Nut.step,Separate solid component
+Spring Flanged Eyelet,18,6,Parts/Suspension/Spring_Flanged_Eyelet.solidcraft,Parts/Suspension/Spring_Flanged_Eyelet.step,Sketch and feature source
+Spring Flanged Eyelet Left,18,0,Parts/Suspension/Spring_Flanged_Eyelet_Left.solidcraft,Parts/Suspension/Spring_Flanged_Eyelet_Left.step,Sketch and feature source
+Spring Front Grip Acetal Guide Comb,3,1,Parts/Suspension/Spring_Front_Grip_Acetal_Guide_Comb.solidcraft,Parts/Suspension/Spring_Front_Grip_Acetal_Guide_Comb.step,Sketch and feature source
+Spring Front Grip Acetal Guide Comb Left,3,0,Parts/Suspension/Spring_Front_Grip_Acetal_Guide_Comb_Left.solidcraft,Parts/Suspension/Spring_Front_Grip_Acetal_Guide_Comb_Left.step,Sketch and feature source
+Spring Guide Mount M2 Screw 1,3,1,Parts/Suspension/Spring_Guide_Mount_M2_Screw_1.solidcraft,Parts/Suspension/Spring_Guide_Mount_M2_Screw_1.step,Sketch and feature source
+Spring Guide Mount M2 Screw 1 Left,3,0,Parts/Suspension/Spring_Guide_Mount_M2_Screw_1_Left.solidcraft,Parts/Suspension/Spring_Guide_Mount_M2_Screw_1_Left.step,Sketch and feature source
+Spring Guide Mount M2 Screw 2,3,1,Parts/Suspension/Spring_Guide_Mount_M2_Screw_2.solidcraft,Parts/Suspension/Spring_Guide_Mount_M2_Screw_2.step,Sketch and feature source
+Spring Guide Mount M2 Screw 2 Left,3,0,Parts/Suspension/Spring_Guide_Mount_M2_Screw_2_Left.solidcraft,Parts/Suspension/Spring_Guide_Mount_M2_Screw_2_Left.step,Sketch and feature source
+Preload Base Mounting Spacer,12,4,Parts/Suspension/Preload_Base_Mounting_Spacer.solidcraft,Parts/Suspension/Preload_Base_Mounting_Spacer.step,Sketch and feature source
+Preload Base Mounting Spacer Left,12,0,Parts/Suspension/Preload_Base_Mounting_Spacer_Left.solidcraft,Parts/Suspension/Preload_Base_Mounting_Spacer_Left.step,Sketch and feature source
+Tension Cable 1 Spring Input Span,6,1,,Parts/Standard_Parts/Tension_Cable_1_Spring_Input_Span.step,Separate solid component
+Tension Cable 1 Fairlead Bend,6,1,,Parts/Standard_Parts/Tension_Cable_1_Fairlead_Bend.step,Separate solid component
+Inlet Fairlead Liner,9,3,Parts/Suspension/Inlet_Fairlead_Liner.solidcraft,Parts/Suspension/Inlet_Fairlead_Liner.step,Sketch and feature source
+Inlet Fairlead Liner Left,9,0,Parts/Suspension/Inlet_Fairlead_Liner_Left.solidcraft,Parts/Suspension/Inlet_Fairlead_Liner_Left.step,Sketch and feature source
+Inlet Fairlead 1 M6 Retaining Nut,6,1,,Parts/Standard_Parts/Inlet_Fairlead_1_M6_Retaining_Nut.step,Separate solid component
+Outlet Housing Reaction Block,3,1,Parts/Suspension/Outlet_Housing_Reaction_Block.solidcraft,Parts/Suspension/Outlet_Housing_Reaction_Block.step,Sketch and feature source
+Outlet Housing Reaction Block Left,3,0,Parts/Suspension/Outlet_Housing_Reaction_Block_Left.solidcraft,Parts/Suspension/Outlet_Housing_Reaction_Block_Left.step,Sketch and feature source
+Anchored Cable Conduit 1,6,1,,Parts/Standard_Parts/Anchored_Cable_Conduit_1.step,Separate solid component
+Tension Cable 1 Conduit Span,6,1,,Parts/Standard_Parts/Tension_Cable_1_Conduit_Span.step,Separate solid component
+Tension Cable 2 Spring Input Span,6,1,,Parts/Standard_Parts/Tension_Cable_2_Spring_Input_Span.step,Separate solid component
+Tension Cable 2 Fairlead Bend,6,1,,Parts/Standard_Parts/Tension_Cable_2_Fairlead_Bend.step,Separate solid component
+Anchored Cable Conduit 2,6,1,,Parts/Standard_Parts/Anchored_Cable_Conduit_2.step,Separate solid component
+Tension Cable 2 Conduit Span,6,1,,Parts/Standard_Parts/Tension_Cable_2_Conduit_Span.step,Separate solid component
+Inlet Fairlead 2 M6 Retaining Nut,6,1,,Parts/Standard_Parts/Inlet_Fairlead_2_M6_Retaining_Nut.step,Separate solid component
+Tension Cable 3 Spring Input Span,6,1,,Parts/Standard_Parts/Tension_Cable_3_Spring_Input_Span.step,Separate solid component
+Tension Cable 3 Fairlead Bend,6,1,,Parts/Standard_Parts/Tension_Cable_3_Fairlead_Bend.step,Separate solid component
+Inlet Fairlead 3 M6 Retaining Nut,6,1,,Parts/Standard_Parts/Inlet_Fairlead_3_M6_Retaining_Nut.step,Separate solid component
+Anchored Cable Conduit 3,6,1,,Parts/Standard_Parts/Anchored_Cable_Conduit_3.step,Separate solid component
+Tension Cable 3 Conduit Span,6,1,,Parts/Standard_Parts/Tension_Cable_3_Conduit_Span.step,Separate solid component
+Cable Fairlead Support Frame,3,1,Parts/Suspension/Cable_Fairlead_Support_Frame.solidcraft,Parts/Suspension/Cable_Fairlead_Support_Frame.step,Sketch and feature source
+Cable Fairlead Support Frame Left,3,0,Parts/Suspension/Cable_Fairlead_Support_Frame_Left.solidcraft,Parts/Suspension/Cable_Fairlead_Support_Frame_Left.step,Sketch and feature source
+Fixed Steel Cup Liner 1,3,1,Parts/Suspension/Fixed_Steel_Cup_Liner_1.solidcraft,Parts/Suspension/Fixed_Steel_Cup_Liner_1.step,Sketch and feature source
+Fixed Steel Cup Liner 1 Left,3,0,Parts/Suspension/Fixed_Steel_Cup_Liner_1_Left.solidcraft,Parts/Suspension/Fixed_Steel_Cup_Liner_1_Left.step,Sketch and feature source
+Fixed Steel Cup Liner 2,3,1,Parts/Suspension/Fixed_Steel_Cup_Liner_2.solidcraft,Parts/Suspension/Fixed_Steel_Cup_Liner_2.step,Sketch and feature source
+Fixed Steel Cup Liner 2 Left,3,0,Parts/Suspension/Fixed_Steel_Cup_Liner_2_Left.solidcraft,Parts/Suspension/Fixed_Steel_Cup_Liner_2_Left.step,Sketch and feature source
+Fixed Steel Cup Liner 3,3,1,Parts/Suspension/Fixed_Steel_Cup_Liner_3.solidcraft,Parts/Suspension/Fixed_Steel_Cup_Liner_3.step,Sketch and feature source
+Fixed Steel Cup Liner 3 Left,3,0,Parts/Suspension/Fixed_Steel_Cup_Liner_3_Left.solidcraft,Parts/Suspension/Fixed_Steel_Cup_Liner_3_Left.step,Sketch and feature source
+Moving Steel Cup Liner 1,3,1,Parts/Suspension/Moving_Steel_Cup_Liner_1.solidcraft,Parts/Suspension/Moving_Steel_Cup_Liner_1.step,Sketch and feature source
+Moving Steel Cup Liner 1 Left,3,0,Parts/Suspension/Moving_Steel_Cup_Liner_1_Left.solidcraft,Parts/Suspension/Moving_Steel_Cup_Liner_1_Left.step,Sketch and feature source
+Moving Steel Cup Liner 2,3,1,Parts/Suspension/Moving_Steel_Cup_Liner_2.solidcraft,Parts/Suspension/Moving_Steel_Cup_Liner_2.step,Sketch and feature source
+Moving Steel Cup Liner 2 Left,3,0,Parts/Suspension/Moving_Steel_Cup_Liner_2_Left.solidcraft,Parts/Suspension/Moving_Steel_Cup_Liner_2_Left.step,Sketch and feature source
+Moving Steel Cup Liner 3,3,1,Parts/Suspension/Moving_Steel_Cup_Liner_3.solidcraft,Parts/Suspension/Moving_Steel_Cup_Liner_3.step,Sketch and feature source
+Moving Steel Cup Liner 3 Left,3,0,Parts/Suspension/Moving_Steel_Cup_Liner_3_Left.solidcraft,Parts/Suspension/Moving_Steel_Cup_Liner_3_Left.step,Sketch and feature source
+Fixed M2 Thread Insert 1 1,6,1,,Parts/Standard_Parts/Fixed_M2_Thread_Insert_1_1.step,Separate solid component
+Fixed M2 Thread Insert 1 2,6,1,,Parts/Standard_Parts/Fixed_M2_Thread_Insert_1_2.step,Separate solid component
+Fixed M2 Thread Insert 2 1,6,1,,Parts/Standard_Parts/Fixed_M2_Thread_Insert_2_1.step,Separate solid component
+Fixed M2 Thread Insert 2 2,6,1,,Parts/Standard_Parts/Fixed_M2_Thread_Insert_2_2.step,Separate solid component
+Fixed M2 Thread Insert 3 1,6,1,,Parts/Standard_Parts/Fixed_M2_Thread_Insert_3_1.step,Separate solid component
+Fixed M2 Thread Insert 3 2,6,1,,Parts/Standard_Parts/Fixed_M2_Thread_Insert_3_2.step,Separate solid component
+Moving M2 Thread Insert 1 1,6,1,,Parts/Standard_Parts/Moving_M2_Thread_Insert_1_1.step,Separate solid component
+Moving M2 Thread Insert 1 2,6,1,,Parts/Standard_Parts/Moving_M2_Thread_Insert_1_2.step,Separate solid component
+Moving M2 Thread Insert 2 1,6,1,,Parts/Standard_Parts/Moving_M2_Thread_Insert_2_1.step,Separate solid component
+Moving M2 Thread Insert 2 2,6,1,,Parts/Standard_Parts/Moving_M2_Thread_Insert_2_2.step,Separate solid component
+Moving M2 Thread Insert 3 1,6,1,,Parts/Standard_Parts/Moving_M2_Thread_Insert_3_1.step,Separate solid component
+Moving M2 Thread Insert 3 2,6,1,,Parts/Standard_Parts/Moving_M2_Thread_Insert_3_2.step,Separate solid component
+Frame Mount M4 Washer 1,6,1,,Parts/Standard_Parts/Frame_Mount_M4_Washer_1.step,Separate solid component
+Cable Support Mounting Spacer,9,3,Parts/Suspension/Cable_Support_Mounting_Spacer.solidcraft,Parts/Suspension/Cable_Support_Mounting_Spacer.step,Sketch and feature source
+Cable Support Mounting Spacer Left,9,0,Parts/Suspension/Cable_Support_Mounting_Spacer_Left.solidcraft,Parts/Suspension/Cable_Support_Mounting_Spacer_Left.step,Sketch and feature source
+Frame and Cable Support M4 Nut 1,6,1,,Parts/Standard_Parts/Frame_and_Cable_Support_M4_Nut_1.step,Separate solid component
+Frame Mount M4 Washer 2,6,1,,Parts/Standard_Parts/Frame_Mount_M4_Washer_2.step,Separate solid component
+Frame and Cable Support M4 Nut 2,6,1,,Parts/Standard_Parts/Frame_and_Cable_Support_M4_Nut_2.step,Separate solid component
+Frame Mount M4 Washer 3,6,1,,Parts/Standard_Parts/Frame_Mount_M4_Washer_3.step,Separate solid component
+Frame and Cable Support M4 Nut 3,6,1,,Parts/Standard_Parts/Frame_and_Cable_Support_M4_Nut_3.step,Separate solid component
+Johnson Wheel Drive Motor,4,0,,Parts/Standard_Parts/Johnson_Wheel_Drive_Motor.step,Separate solid component
+Driven Wheel Axle,2,0,Parts/Drive/Driven_Wheel_Axle.solidcraft,Parts/Drive/Driven_Wheel_Axle.step,Sketch and feature source
+Driven Wheel Axle Left,2,0,Parts/Drive/Driven_Wheel_Axle_Left.solidcraft,Parts/Drive/Driven_Wheel_Axle_Left.step,Sketch and feature source
+Metal Wheel Hub,3,1,Parts/Drive/Metal_Wheel_Hub.solidcraft,Parts/Drive/Metal_Wheel_Hub.step,Sketch and feature source
+Metal Wheel Hub Left,3,0,Parts/Drive/Metal_Wheel_Hub_Left.solidcraft,Parts/Drive/Metal_Wheel_Hub_Left.step,Sketch and feature source
+Printed Wheel Rim,3,1,Parts/Drive/Printed_Wheel_Rim.solidcraft,Parts/Drive/Printed_Wheel_Rim.step,Sketch and feature source
+Printed Wheel Rim Left,3,0,Parts/Drive/Printed_Wheel_Rim_Left.solidcraft,Parts/Drive/Printed_Wheel_Rim_Left.step,Sketch and feature source
+Front Wheel Spacer,3,1,Parts/Drive/Front_Wheel_Spacer.solidcraft,Parts/Drive/Front_Wheel_Spacer.step,Sketch and feature source
+Front Wheel Spacer Left,3,0,Parts/Drive/Front_Wheel_Spacer_Left.solidcraft,Parts/Drive/Front_Wheel_Spacer_Left.step,Sketch and feature source
+Centre Wheel Spacer,3,1,Parts/Drive/Centre_Wheel_Spacer.solidcraft,Parts/Drive/Centre_Wheel_Spacer.step,Sketch and feature source
+Centre Wheel Spacer Left,3,0,Parts/Drive/Centre_Wheel_Spacer_Left.solidcraft,Parts/Drive/Centre_Wheel_Spacer_Left.step,Sketch and feature source
+Outer Wheel Spacer,3,1,Parts/Drive/Outer_Wheel_Spacer.solidcraft,Parts/Drive/Outer_Wheel_Spacer.step,Sketch and feature source
+Outer Wheel Spacer Left,3,0,Parts/Drive/Outer_Wheel_Spacer_Left.solidcraft,Parts/Drive/Outer_Wheel_Spacer_Left.step,Sketch and feature source
+Front Axle Collar,3,1,Parts/Drive/Front_Axle_Collar.solidcraft,Parts/Drive/Front_Axle_Collar.step,Sketch and feature source
+Front Axle Collar Left,3,0,Parts/Drive/Front_Axle_Collar_Left.solidcraft,Parts/Drive/Front_Axle_Collar_Left.step,Sketch and feature source
+Rear Axle Collar,3,1,Parts/Drive/Rear_Axle_Collar.solidcraft,Parts/Drive/Rear_Axle_Collar.step,Sketch and feature source
+Rear Axle Collar Left,3,0,Parts/Drive/Rear_Axle_Collar_Left.solidcraft,Parts/Drive/Rear_Axle_Collar_Left.step,Sketch and feature source
+Bearing Cartridge,6,2,Parts/Drive/Bearing_Cartridge.solidcraft,Parts/Drive/Bearing_Cartridge.step,Sketch and feature source
+Bearing Cartridge Left,6,0,Parts/Drive/Bearing_Cartridge_Left.solidcraft,Parts/Drive/Bearing_Cartridge_Left.step,Sketch and feature source
+Bearing Retaining Cap,6,2,Parts/Drive/Bearing_Retaining_Cap.solidcraft,Parts/Drive/Bearing_Retaining_Cap.step,Sketch and feature source
+Bearing Retaining Cap Left,6,0,Parts/Drive/Bearing_Retaining_Cap_Left.solidcraft,Parts/Drive/Bearing_Retaining_Cap_Left.step,Sketch and feature source
+Bearing Outer Race Shim,6,2,Parts/Drive/Bearing_Outer_Race_Shim.solidcraft,Parts/Drive/Bearing_Outer_Race_Shim.step,Sketch and feature source
+Bearing Outer Race Shim Left,6,0,Parts/Drive/Bearing_Outer_Race_Shim_Left.solidcraft,Parts/Drive/Bearing_Outer_Race_Shim_Left.step,Sketch and feature source
+Wheel Bearing Cap Screw 1,6,1,,Parts/Standard_Parts/Wheel_Bearing_Cap_Screw_1.step,Separate solid component
+Wheel Bearing Cap Screw 2,6,1,,Parts/Standard_Parts/Wheel_Bearing_Cap_Screw_2.step,Separate solid component
+Wheel Bearing Cap Screw 3,5,0,,Parts/Standard_Parts/Wheel_Bearing_Cap_Screw_3.step,Separate solid component
+Wheel Bearing Cap Screw 4,5,0,,Parts/Standard_Parts/Wheel_Bearing_Cap_Screw_4.step,Separate solid component
+Pivot Bearing Cap Screw 1,6,1,,Parts/Standard_Parts/Pivot_Bearing_Cap_Screw_1.step,Separate solid component
+Pivot Bearing Cap Screw 2,6,1,,Parts/Standard_Parts/Pivot_Bearing_Cap_Screw_2.step,Separate solid component
+Pivot Bearing Cap Screw 3,6,1,,Parts/Standard_Parts/Pivot_Bearing_Cap_Screw_3.step,Separate solid component
+Pivot Bearing Cap Screw 4,6,1,,Parts/Standard_Parts/Pivot_Bearing_Cap_Screw_4.step,Separate solid component
+Front Axle Spring Pin,6,1,,Parts/Standard_Parts/Front_Axle_Spring_Pin.step,Separate solid component
+Rear Axle Retaining Spring Pin,6,1,,Parts/Standard_Parts/Rear_Axle_Retaining_Spring_Pin.step,Separate solid component
+Wheel Hub Spring Pin,6,1,,Parts/Standard_Parts/Wheel_Hub_Spring_Pin.step,Separate solid component
+Motor Mount Washer 1,4,0,,Parts/Standard_Parts/Motor_Mount_Washer_1.step,Separate solid component
+Motor Mount Screw 1,4,0,,Parts/Standard_Parts/Motor_Mount_Screw_1.step,Separate solid component
+Motor Mount Washer 2,4,0,,Parts/Standard_Parts/Motor_Mount_Washer_2.step,Separate solid component
+Motor Mount Screw 2,4,0,,Parts/Standard_Parts/Motor_Mount_Screw_2.step,Separate solid component
+Motor Mount Washer 3,4,0,,Parts/Standard_Parts/Motor_Mount_Washer_3.step,Separate solid component
+Motor Mount Screw 3,4,0,,Parts/Standard_Parts/Motor_Mount_Screw_3.step,Separate solid component
+Motor Mount Washer 4,4,0,,Parts/Standard_Parts/Motor_Mount_Washer_4.step,Separate solid component
+Motor Mount Screw 4,4,0,,Parts/Standard_Parts/Motor_Mount_Screw_4.step,Separate solid component
+Motor Mount Washer 5,4,0,,Parts/Standard_Parts/Motor_Mount_Washer_5.step,Separate solid component
+Motor Mount Screw 5,4,0,,Parts/Standard_Parts/Motor_Mount_Screw_5.step,Separate solid component
+Motor Mount Washer 6,4,0,,Parts/Standard_Parts/Motor_Mount_Washer_6.step,Separate solid component
+Motor Mount Screw 6,4,0,,Parts/Standard_Parts/Motor_Mount_Screw_6.step,Separate solid component
+Motor Tie Insert 1,4,0,,Parts/Standard_Parts/Motor_Tie_Insert_1.step,Separate solid component
+Motor Tie Screw 1,4,0,,Parts/Standard_Parts/Motor_Tie_Screw_1.step,Separate solid component
+Motor Tie Insert 2,4,0,,Parts/Standard_Parts/Motor_Tie_Insert_2.step,Separate solid component
+Motor Tie Screw 2,4,0,,Parts/Standard_Parts/Motor_Tie_Screw_2.step,Separate solid component
+Motor Tie Insert 3,4,0,,Parts/Standard_Parts/Motor_Tie_Insert_3.step,Separate solid component
+Motor Tie Screw 3,4,0,,Parts/Standard_Parts/Motor_Tie_Screw_3.step,Separate solid component
+Removable Drive Motor Guard,2,0,Parts/Drive/Removable_Drive_Motor_Guard.solidcraft,Parts/Drive/Removable_Drive_Motor_Guard.step,Sketch and feature source
+Removable Drive Motor Guard Left,2,0,Parts/Drive/Removable_Drive_Motor_Guard_Left.solidcraft,Parts/Drive/Removable_Drive_Motor_Guard_Left.step,Sketch and feature source
+Motor Guard Screw 1,4,0,,Parts/Standard_Parts/Motor_Guard_Screw_1.step,Separate solid component
+Motor Guard Nut 1,4,0,,Parts/Standard_Parts/Motor_Guard_Nut_1.step,Separate solid component
+Motor Guard Screw 2,4,0,,Parts/Standard_Parts/Motor_Guard_Screw_2.step,Separate solid component
+Motor Guard Nut 2,4,0,,Parts/Standard_Parts/Motor_Guard_Nut_2.step,Separate solid component
+Motor Guard Screw 3,4,0,,Parts/Standard_Parts/Motor_Guard_Screw_3.step,Separate solid component
+Motor Guard Nut 3,4,0,,Parts/Standard_Parts/Motor_Guard_Nut_3.step,Separate solid component
+Wheel Rim Screw 1,6,1,,Parts/Standard_Parts/Wheel_Rim_Screw_1.step,Separate solid component
+Wheel Rim Nut 1,6,1,,Parts/Standard_Parts/Wheel_Rim_Nut_1.step,Separate solid component
+Wheel Rim Screw 2,6,1,,Parts/Standard_Parts/Wheel_Rim_Screw_2.step,Separate solid component
+Wheel Rim Nut 2,6,1,,Parts/Standard_Parts/Wheel_Rim_Nut_2.step,Separate solid component
+Wheel Rim Screw 3,6,1,,Parts/Standard_Parts/Wheel_Rim_Screw_3.step,Separate solid component
+Wheel Rim Nut 3,6,1,,Parts/Standard_Parts/Wheel_Rim_Nut_3.step,Separate solid component
+Wheel Support Bearing 1 Solid,6,1,,Parts/Standard_Parts/Wheel_Support_Bearing_1_Solid.step,Separate solid component
+Wheel Support Bearing 2 Solid,6,1,,Parts/Standard_Parts/Wheel_Support_Bearing_2_Solid.step,Separate solid component
+Suspension Pivot Bearing 1 Solid,6,1,,Parts/Standard_Parts/Suspension_Pivot_Bearing_1_Solid.step,Separate solid component
+Suspension Pivot Bearing 2 Solid,6,1,,Parts/Standard_Parts/Suspension_Pivot_Bearing_2_Solid.step,Separate solid component
+Pivot Bearing Inner Spacer,3,1,Parts/Suspension/Pivot_Bearing_Inner_Spacer.solidcraft,Parts/Suspension/Pivot_Bearing_Inner_Spacer.step,Sketch and feature source
+Pivot Bearing Inner Spacer Left,3,0,Parts/Suspension/Pivot_Bearing_Inner_Spacer_Left.solidcraft,Parts/Suspension/Pivot_Bearing_Inner_Spacer_Left.step,Sketch and feature source
+Front Inner Race Locating Sleeve,3,1,Parts/Suspension/Front_Inner_Race_Locating_Sleeve.solidcraft,Parts/Suspension/Front_Inner_Race_Locating_Sleeve.step,Sketch and feature source
+Front Inner Race Locating Sleeve Left,3,0,Parts/Suspension/Front_Inner_Race_Locating_Sleeve_Left.solidcraft,Parts/Suspension/Front_Inner_Race_Locating_Sleeve_Left.step,Sketch and feature source
+Ribbed TPU Tyre,3,1,Parts/Suspension/Ribbed_TPU_Tyre.solidcraft,Parts/Suspension/Ribbed_TPU_Tyre.step,Sketch and feature source
+Ribbed TPU Tyre Left,3,0,Parts/Suspension/Ribbed_TPU_Tyre_Left.solidcraft,Parts/Suspension/Ribbed_TPU_Tyre_Left.step,Sketch and feature source
+Preload Gearmotor,6,1,,Parts/Standard_Parts/Preload_Gearmotor.step,Separate solid component
+Preload Motor Output Shaft,3,1,Parts/Preload/Preload_Motor_Output_Shaft.solidcraft,Parts/Preload/Preload_Motor_Output_Shaft.step,Sketch and feature source
+Preload Motor Output Shaft Left,3,0,Parts/Preload/Preload_Motor_Output_Shaft_Left.solidcraft,Parts/Preload/Preload_Motor_Output_Shaft_Left.step,Sketch and feature source
+Preload Screw M6x1 RH,3,1,Parts/Preload/Preload_Screw_M6x1_RH.solidcraft,Parts/Preload/Preload_Screw_M6x1_RH.step,Sketch and feature source
+Preload Screw M6x1 RH Left,3,0,Parts/Preload/Preload_Screw_M6x1_RH_Left.solidcraft,Parts/Preload/Preload_Screw_M6x1_RH_Left.step,Sketch and feature source
+Preload Coupling and Lock Disc,3,1,Parts/Preload/Preload_Coupling_and_Lock_Disc.solidcraft,Parts/Preload/Preload_Coupling_and_Lock_Disc.step,Sketch and feature source
+Preload Coupling and Lock Disc Left,3,0,Parts/Preload/Preload_Coupling_and_Lock_Disc_Left.solidcraft,Parts/Preload/Preload_Coupling_and_Lock_Disc_Left.step,Sketch and feature source
+Preload Coupling Cross Pin,6,2,Parts/Preload/Preload_Coupling_Cross_Pin.solidcraft,Parts/Preload/Preload_Coupling_Cross_Pin.step,Sketch and feature source
+Preload Coupling Cross Pin Left,6,0,Parts/Preload/Preload_Coupling_Cross_Pin_Left.solidcraft,Parts/Preload/Preload_Coupling_Cross_Pin_Left.step,Sketch and feature source
+Preload Thrust Bearing F6 12M,3,1,Parts/Preload/Preload_Thrust_Bearing_F6_12M.solidcraft,Parts/Preload/Preload_Thrust_Bearing_F6_12M.step,Sketch and feature source
+Preload Thrust Bearing F6 12M Left,3,0,Parts/Preload/Preload_Thrust_Bearing_F6_12M_Left.solidcraft,Parts/Preload/Preload_Thrust_Bearing_F6_12M_Left.step,Sketch and feature source
+Preload Thrust Washer,3,1,Parts/Preload/Preload_Thrust_Washer.solidcraft,Parts/Preload/Preload_Thrust_Washer.step,Sketch and feature source
+Preload Thrust Washer Left,3,0,Parts/Preload/Preload_Thrust_Washer_Left.solidcraft,Parts/Preload/Preload_Thrust_Washer_Left.step,Sketch and feature source
+Preload Thin Locknut M6,3,1,Parts/Preload/Preload_Thin_Locknut_M6.solidcraft,Parts/Preload/Preload_Thin_Locknut_M6.step,Sketch and feature source
+Preload Thin Locknut M6 Left,3,0,Parts/Preload/Preload_Thin_Locknut_M6_Left.solidcraft,Parts/Preload/Preload_Thin_Locknut_M6_Left.step,Sketch and feature source
+Preload Metal Thrust Reaction Plate,3,1,Parts/Preload/Preload_Metal_Thrust_Reaction_Plate.solidcraft,Parts/Preload/Preload_Metal_Thrust_Reaction_Plate.step,Sketch and feature source
+Preload Metal Thrust Reaction Plate Left,3,0,Parts/Preload/Preload_Metal_Thrust_Reaction_Plate_Left.solidcraft,Parts/Preload/Preload_Metal_Thrust_Reaction_Plate_Left.step,Sketch and feature source
+Preload Printed Base,3,1,Parts/Preload/Preload_Printed_Base.solidcraft,Parts/Preload/Preload_Printed_Base.step,Sketch and feature source
+Preload Printed Base Left,3,0,Parts/Preload/Preload_Printed_Base_Left.solidcraft,Parts/Preload/Preload_Printed_Base_Left.step,Sketch and feature source
+Preload Motor M3 Screw 2,6,1,,Parts/Standard_Parts/Preload_Motor_M3_Screw_2.step,Separate solid component
+Preload Motor M3 Screw 4,6,1,,Parts/Standard_Parts/Preload_Motor_M3_Screw_4.step,Separate solid component
+Preload Motor M3 Screw 6,6,1,,Parts/Standard_Parts/Preload_Motor_M3_Screw_6.step,Separate solid component
+Preload Thrust Plate M3 Bolt,6,2,Parts/Preload/Preload_Thrust_Plate_M3_Bolt.solidcraft,Parts/Preload/Preload_Thrust_Plate_M3_Bolt.step,Sketch and feature source
+Preload Thrust Plate M3 Bolt Left,6,0,Parts/Preload/Preload_Thrust_Plate_M3_Bolt_Left.solidcraft,Parts/Preload/Preload_Thrust_Plate_M3_Bolt_Left.step,Sketch and feature source
+Preload Thrust Plate M3 Nut,6,2,Parts/Preload/Preload_Thrust_Plate_M3_Nut.solidcraft,Parts/Preload/Preload_Thrust_Plate_M3_Nut.step,Sketch and feature source
+Preload Thrust Plate M3 Nut Left,6,0,Parts/Preload/Preload_Thrust_Plate_M3_Nut_Left.solidcraft,Parts/Preload/Preload_Thrust_Plate_M3_Nut_Left.step,Sketch and feature source
+Preload Guide Rod,6,2,Parts/Preload/Preload_Guide_Rod.solidcraft,Parts/Preload/Preload_Guide_Rod.step,Sketch and feature source
+Preload Guide Rod Left,6,0,Parts/Preload/Preload_Guide_Rod_Left.solidcraft,Parts/Preload/Preload_Guide_Rod_Left.step,Sketch and feature source
+Preload Guide Stop M3 Bolt,6,2,Parts/Preload/Preload_Guide_Stop_M3_Bolt.solidcraft,Parts/Preload/Preload_Guide_Stop_M3_Bolt.step,Sketch and feature source
+Preload Guide Stop M3 Bolt Left,6,0,Parts/Preload/Preload_Guide_Stop_M3_Bolt_Left.solidcraft,Parts/Preload/Preload_Guide_Stop_M3_Bolt_Left.step,Sketch and feature source
+Preload Guide Stop M3 Nut,6,2,Parts/Preload/Preload_Guide_Stop_M3_Nut.solidcraft,Parts/Preload/Preload_Guide_Stop_M3_Nut.step,Sketch and feature source
+Preload Guide Stop M3 Nut Left,6,0,Parts/Preload/Preload_Guide_Stop_M3_Nut_Left.solidcraft,Parts/Preload/Preload_Guide_Stop_M3_Nut_Left.step,Sketch and feature source
+Preload Guide Rod End Stop,3,1,Parts/Preload/Preload_Guide_Rod_End_Stop.solidcraft,Parts/Preload/Preload_Guide_Rod_End_Stop.step,Sketch and feature source
+Preload Guide Rod End Stop Left,3,0,Parts/Preload/Preload_Guide_Rod_End_Stop_Left.solidcraft,Parts/Preload/Preload_Guide_Rod_End_Stop_Left.step,Sketch and feature source
+Preload Steel Carriage Core,3,1,Parts/Preload/Preload_Steel_Carriage_Core.solidcraft,Parts/Preload/Preload_Steel_Carriage_Core.step,Sketch and feature source
+Preload Steel Carriage Core Left,3,0,Parts/Preload/Preload_Steel_Carriage_Core_Left.solidcraft,Parts/Preload/Preload_Steel_Carriage_Core_Left.step,Sketch and feature source
+Preload Printed Carriage,3,1,Parts/Preload/Preload_Printed_Carriage.solidcraft,Parts/Preload/Preload_Printed_Carriage.step,Sketch and feature source
+Preload Printed Carriage Left,3,0,Parts/Preload/Preload_Printed_Carriage_Left.solidcraft,Parts/Preload/Preload_Printed_Carriage_Left.step,Sketch and feature source
+Preload Acetal Guide Bush,6,2,Parts/Preload/Preload_Acetal_Guide_Bush.solidcraft,Parts/Preload/Preload_Acetal_Guide_Bush.step,Sketch and feature source
+Preload Acetal Guide Bush Left,6,0,Parts/Preload/Preload_Acetal_Guide_Bush_Left.solidcraft,Parts/Preload/Preload_Acetal_Guide_Bush_Left.step,Sketch and feature source
+Preload Drive Nut M6,3,1,Parts/Preload/Preload_Drive_Nut_M6.solidcraft,Parts/Preload/Preload_Drive_Nut_M6.step,Sketch and feature source
+Preload Drive Nut M6 Left,3,0,Parts/Preload/Preload_Drive_Nut_M6_Left.solidcraft,Parts/Preload/Preload_Drive_Nut_M6_Left.step,Sketch and feature source
+Preload Carriage Load Washer,3,1,Parts/Preload/Preload_Carriage_Load_Washer.solidcraft,Parts/Preload/Preload_Carriage_Load_Washer.step,Sketch and feature source
+Preload Carriage Load Washer Left,3,0,Parts/Preload/Preload_Carriage_Load_Washer_Left.solidcraft,Parts/Preload/Preload_Carriage_Load_Washer_Left.step,Sketch and feature source
+Preload Nut Anti Rotation Clip,3,1,Parts/Preload/Preload_Nut_Anti_Rotation_Clip.solidcraft,Parts/Preload/Preload_Nut_Anti_Rotation_Clip.step,Sketch and feature source
+Preload Nut Anti Rotation Clip Left,3,0,Parts/Preload/Preload_Nut_Anti_Rotation_Clip_Left.solidcraft,Parts/Preload/Preload_Nut_Anti_Rotation_Clip_Left.step,Sketch and feature source
+Preload Carriage Clamp Washer,6,2,Parts/Preload/Preload_Carriage_Clamp_Washer.solidcraft,Parts/Preload/Preload_Carriage_Clamp_Washer.step,Sketch and feature source
+Preload Carriage Clamp Washer Left,6,0,Parts/Preload/Preload_Carriage_Clamp_Washer_Left.solidcraft,Parts/Preload/Preload_Carriage_Clamp_Washer_Left.step,Sketch and feature source
+Preload Carriage Clamp M3 Bolt,6,2,Parts/Preload/Preload_Carriage_Clamp_M3_Bolt.solidcraft,Parts/Preload/Preload_Carriage_Clamp_M3_Bolt.step,Sketch and feature source
+Preload Carriage Clamp M3 Bolt Left,6,0,Parts/Preload/Preload_Carriage_Clamp_M3_Bolt_Left.solidcraft,Parts/Preload/Preload_Carriage_Clamp_M3_Bolt_Left.step,Sketch and feature source
+Preload Carriage Clamp M3 Nut 1,6,1,,Parts/Standard_Parts/Preload_Carriage_Clamp_M3_Nut_1.step,Separate solid component
+Preload Carriage Clamp M3 Nut 2,6,1,,Parts/Standard_Parts/Preload_Carriage_Clamp_M3_Nut_2.step,Separate solid component
+Preload Manual Lock Fork,3,1,Parts/Preload/Preload_Manual_Lock_Fork.solidcraft,Parts/Preload/Preload_Manual_Lock_Fork.step,Sketch and feature source
+Preload Manual Lock Fork Left,3,0,Parts/Preload/Preload_Manual_Lock_Fork_Left.solidcraft,Parts/Preload/Preload_Manual_Lock_Fork_Left.step,Sketch and feature source
+Preload Manual Lock Pin,3,1,Parts/Preload/Preload_Manual_Lock_Pin.solidcraft,Parts/Preload/Preload_Manual_Lock_Pin.step,Sketch and feature source
+Preload Manual Lock Pin Left,3,0,Parts/Preload/Preload_Manual_Lock_Pin_Left.solidcraft,Parts/Preload/Preload_Manual_Lock_Pin_Left.step,Sketch and feature source
+Rear Spring Shoulder Bolt,9,3,Parts/Preload/Rear_Spring_Shoulder_Bolt.solidcraft,Parts/Preload/Rear_Spring_Shoulder_Bolt.step,Sketch and feature source
+Rear Spring Shoulder Bolt Left,9,0,Parts/Preload/Rear_Spring_Shoulder_Bolt_Left.solidcraft,Parts/Preload/Rear_Spring_Shoulder_Bolt_Left.step,Sketch and feature source
+Rear Spring Spacer,9,3,Parts/Preload/Rear_Spring_Spacer.solidcraft,Parts/Preload/Rear_Spring_Spacer.step,Sketch and feature source
+Rear Spring Spacer Left,9,0,Parts/Preload/Rear_Spring_Spacer_Left.solidcraft,Parts/Preload/Rear_Spring_Spacer_Left.step,Sketch and feature source
+Spring 1 Rear Retaining Nut,6,1,,Parts/Standard_Parts/Spring_1_Rear_Retaining_Nut.step,Separate solid component
+Elastomer Spring Installed Envelope,9,3,Parts/Preload/Elastomer_Spring_Installed_Envelope.solidcraft,Parts/Preload/Elastomer_Spring_Installed_Envelope.step,Sketch and feature source
+Elastomer Spring Installed Envelope Left,9,0,Parts/Preload/Elastomer_Spring_Installed_Envelope_Left.solidcraft,Parts/Preload/Elastomer_Spring_Installed_Envelope_Left.step,Sketch and feature source
+Spring 2 Rear Retaining Nut,6,1,,Parts/Standard_Parts/Spring_2_Rear_Retaining_Nut.step,Separate solid component
+Spring 3 Rear Retaining Nut,6,1,,Parts/Standard_Parts/Spring_3_Rear_Retaining_Nut.step,Separate solid component
+Preload Linear Hall Sensor,6,1,,Parts/Standard_Parts/Preload_Linear_Hall_Sensor.step,Separate solid component
+Preload K800 Target Magnet,6,1,,Parts/Standard_Parts/Preload_K800_Target_Magnet.step,Separate solid component
+Preload NC Travel Limit 1,6,1,,Parts/Standard_Parts/Preload_NC_Travel_Limit_1.step,Separate solid component
+Preload NC Travel Limit 2,6,1,,Parts/Standard_Parts/Preload_NC_Travel_Limit_2.step,Separate solid component
+Preload NC Lock Confirmation,6,1,,Parts/Standard_Parts/Preload_NC_Lock_Confirmation.step,Separate solid component
+Preload Hard Stop,6,2,Parts/Preload/Preload_Hard_Stop.solidcraft,Parts/Preload/Preload_Hard_Stop.step,Sketch and feature source
+Preload Hard Stop Left,6,0,Parts/Preload/Preload_Hard_Stop_Left.solidcraft,Parts/Preload/Preload_Hard_Stop_Left.step,Sketch and feature source
+Preload Limit 1 M2 Bolt 1,6,1,,Parts/Standard_Parts/Preload_Limit_1_M2_Bolt_1.step,Separate solid component
+Preload Limit 1 M2 Nut 1,6,1,,Parts/Standard_Parts/Preload_Limit_1_M2_Nut_1.step,Separate solid component
+Preload Limit 1 M2 Bolt 2,6,1,,Parts/Standard_Parts/Preload_Limit_1_M2_Bolt_2.step,Separate solid component
+Preload Limit 1 M2 Nut 2,6,1,,Parts/Standard_Parts/Preload_Limit_1_M2_Nut_2.step,Separate solid component
+Preload Limit 2 M2 Bolt 1,6,1,,Parts/Standard_Parts/Preload_Limit_2_M2_Bolt_1.step,Separate solid component
+Preload Limit 2 M2 Nut 1,6,1,,Parts/Standard_Parts/Preload_Limit_2_M2_Nut_1.step,Separate solid component
+Preload Limit 2 M2 Bolt 2,6,1,,Parts/Standard_Parts/Preload_Limit_2_M2_Bolt_2.step,Separate solid component
+Preload Limit 2 M2 Nut 2,6,1,,Parts/Standard_Parts/Preload_Limit_2_M2_Nut_2.step,Separate solid component
+Preload Low Stop M2 Bolt 1,6,1,,Parts/Standard_Parts/Preload_Low_Stop_M2_Bolt_1.step,Separate solid component
+Preload Low Stop M2 Nut 1,6,1,,Parts/Standard_Parts/Preload_Low_Stop_M2_Nut_1.step,Separate solid component
+Preload Low Stop M2 Bolt 2,6,1,,Parts/Standard_Parts/Preload_Low_Stop_M2_Bolt_2.step,Separate solid component
+Preload Low Stop M2 Nut 2,6,1,,Parts/Standard_Parts/Preload_Low_Stop_M2_Nut_2.step,Separate solid component
+Preload High Stop M2 Bolt 1,6,1,,Parts/Standard_Parts/Preload_High_Stop_M2_Bolt_1.step,Separate solid component
+Preload High Stop M2 Nut 1,6,1,,Parts/Standard_Parts/Preload_High_Stop_M2_Nut_1.step,Separate solid component
+Preload High Stop M2 Bolt 2,6,1,,Parts/Standard_Parts/Preload_High_Stop_M2_Bolt_2.step,Separate solid component
+Preload High Stop M2 Nut 2,6,1,,Parts/Standard_Parts/Preload_High_Stop_M2_Nut_2.step,Separate solid component
+Passive Wheel Carrier,1,1,Parts/Drive/Passive_Wheel_Carrier.solidcraft,Parts/Drive/Passive_Wheel_Carrier.step,Sketch and feature source
+Passive Wheel Carrier Left,1,0,Parts/Drive/Passive_Wheel_Carrier_Left.solidcraft,Parts/Drive/Passive_Wheel_Carrier_Left.step,Sketch and feature source
+Passive Wheel Axle,1,1,Parts/Drive/Passive_Wheel_Axle.solidcraft,Parts/Drive/Passive_Wheel_Axle.step,Sketch and feature source
+Passive Wheel Axle Left,1,0,Parts/Drive/Passive_Wheel_Axle_Left.solidcraft,Parts/Drive/Passive_Wheel_Axle_Left.step,Sketch and feature source
+Encoder Bracket Mounting Screw 1,1,1,,Parts/Standard_Parts/Encoder_Bracket_Mounting_Screw_1.step,Separate solid component
+Encoder Bracket Mounting Screw 2,1,1,,Parts/Standard_Parts/Encoder_Bracket_Mounting_Screw_2.step,Separate solid component
+Wheel Encoder Board,1,1,,Parts/Standard_Parts/Wheel_Encoder_Board.step,Separate solid component
+Encoder Cable Connector,1,1,,Parts/Standard_Parts/Encoder_Cable_Connector.step,Separate solid component
+Encoder Board Insert 1,1,1,,Parts/Standard_Parts/Encoder_Board_Insert_1.step,Separate solid component
+Encoder Board Clamp Screw 1,1,1,,Parts/Standard_Parts/Encoder_Board_Clamp_Screw_1.step,Separate solid component
+Encoder Board Insert 2,1,1,,Parts/Standard_Parts/Encoder_Board_Insert_2.step,Separate solid component
+Encoder Board Clamp Screw 2,1,1,,Parts/Standard_Parts/Encoder_Board_Clamp_Screw_2.step,Separate solid component
+Encoder Shaft Clamp Screw,1,1,,Parts/Standard_Parts/Encoder_Shaft_Clamp_Screw.step,Separate solid component
+Encoder Shaft Clamp Nut,1,1,,Parts/Standard_Parts/Encoder_Shaft_Clamp_Nut.step,Separate solid component
+Encoder Target Magnet,1,1,,Parts/Standard_Parts/Encoder_Target_Magnet.step,Separate solid component
+Encoder Target Retaining Washer,1,1,,Parts/Standard_Parts/Encoder_Target_Retaining_Washer.step,Separate solid component
+Cassette Floor M4 Screw 1,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Screw_1.step,Separate solid component
+Cassette Floor M4 Nut 1,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Nut_1.step,Separate solid component
+Cassette Floor M4 Screw 2,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Screw_2.step,Separate solid component
+Cassette Floor M4 Nut 2,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Nut_2.step,Separate solid component
+Cassette Floor M4 Screw 3,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Screw_3.step,Separate solid component
+Cassette Floor M4 Nut 3,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Nut_3.step,Separate solid component
+Cassette Floor M4 Screw 4,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Screw_4.step,Separate solid component
+Cassette Floor M4 Nut 4,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Nut_4.step,Separate solid component
+Cassette Floor M4 Screw 5,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Screw_5.step,Separate solid component
+Cassette Floor M4 Nut 5,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Nut_5.step,Separate solid component
+Cassette Floor M4 Screw 6,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Screw_6.step,Separate solid component
+Cassette Floor M4 Nut 6,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Nut_6.step,Separate solid component
+Cassette Floor M4 Screw 7,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Screw_7.step,Separate solid component
+Cassette Floor M4 Nut 7,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Nut_7.step,Separate solid component
+Cassette Floor M4 Screw 8,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Screw_8.step,Separate solid component
+Cassette Floor M4 Nut 8,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Nut_8.step,Separate solid component
+Cassette Floor M4 Screw 9,1,1,,Parts/Standard_Parts/Cassette_Floor_M4_Screw_9.step,Separate solid component
+Cassette Floor M4 Nut 9,1,1,,Parts/Standard_Parts/Cassette_Floor_M4_Nut_9.step,Separate solid component
+Cassette Floor M4 Screw 10,1,1,,Parts/Standard_Parts/Cassette_Floor_M4_Screw_10.step,Separate solid component
+Cassette Floor M4 Nut 10,1,1,,Parts/Standard_Parts/Cassette_Floor_M4_Nut_10.step,Separate solid component
+Cassette Floor M4 Screw 11,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Screw_11.step,Separate solid component
+Cassette Floor M4 Nut 11,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Nut_11.step,Separate solid component
+Cassette Floor M4 Screw 12,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Screw_12.step,Separate solid component
+Cassette Floor M4 Nut 12,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Nut_12.step,Separate solid component
+Cassette Floor M4 Screw 13,1,1,,Parts/Standard_Parts/Cassette_Floor_M4_Screw_13.step,Separate solid component
+Cassette Floor M4 Nut 13,1,1,,Parts/Standard_Parts/Cassette_Floor_M4_Nut_13.step,Separate solid component
+Cassette Floor M4 Screw 14,1,1,,Parts/Standard_Parts/Cassette_Floor_M4_Screw_14.step,Separate solid component
+Cassette Floor M4 Nut 14,1,1,,Parts/Standard_Parts/Cassette_Floor_M4_Nut_14.step,Separate solid component
+Cassette Floor M4 Screw 15,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Screw_15.step,Separate solid component
+Cassette Floor M4 Nut 15,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Nut_15.step,Separate solid component
+Cassette Floor M4 Screw 16,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Screw_16.step,Separate solid component
+Cassette Floor M4 Nut 16,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Nut_16.step,Separate solid component
+Cassette Floor M4 Screw 17,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Screw_17.step,Separate solid component
+Cassette Floor M4 Nut 17,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Nut_17.step,Separate solid component
+Cassette Floor M4 Screw 18,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Screw_18.step,Separate solid component
+Cassette Floor M4 Nut 18,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Nut_18.step,Separate solid component
+Cassette Floor M4 Screw 19,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Screw_19.step,Separate solid component
+Cassette Floor M4 Nut 19,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Nut_19.step,Separate solid component
+Cassette Floor M4 Screw 20,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Screw_20.step,Separate solid component
+Cassette Floor M4 Nut 20,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Nut_20.step,Separate solid component
+Cassette Floor M4 Screw 21,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Screw_21.step,Separate solid component
+Cassette Floor M4 Nut 21,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Nut_21.step,Separate solid component
+Cassette Floor M4 Screw 22,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Screw_22.step,Separate solid component
+Cassette Floor M4 Nut 22,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Nut_22.step,Separate solid component
+Cassette Floor M4 Screw 23,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Screw_23.step,Separate solid component
+Cassette Floor M4 Nut 23,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Nut_23.step,Separate solid component
+Cassette Floor M4 Screw 24,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Screw_24.step,Separate solid component
+Cassette Floor M4 Nut 24,1,0,,Parts/Standard_Parts/Cassette_Floor_M4_Nut_24.step,Separate solid component
+Bent Aluminium Chassis Tray,1,0,Parts/Chassis/Bent_Aluminium_Chassis_Tray.solidcraft,Parts/Chassis/Bent_Aluminium_Chassis_Tray.step,Sketch and feature source
+Platform Segment 1,1,0,Parts/Chassis/Platform_Segment_1.solidcraft,Parts/Chassis/Platform_Segment_1.step,Sketch and feature source
+Platform Segment 2,1,0,Parts/Chassis/Platform_Segment_2.solidcraft,Parts/Chassis/Platform_Segment_2.step,Sketch and feature source
+Platform Segment 3,1,0,Parts/Chassis/Platform_Segment_3.solidcraft,Parts/Chassis/Platform_Segment_3.step,Sketch and feature source
+Platform Support Column 1 Left,1,0,Parts/Chassis/Platform_Support_Column_1_Left.solidcraft,Parts/Chassis/Platform_Support_Column_1_Left.step,Sketch and feature source
+Platform Support Column 1 Left Tie Rod,1,0,,Parts/Standard_Parts/Platform_Support_Column_1_Left_Tie_Rod.step,Separate solid component
+Platform Support Column 1 Left Bottom Washer,1,0,,Parts/Standard_Parts/Platform_Support_Column_1_Left_Bottom_Washer.step,Separate solid component
+Platform Support Column 1 Left Bottom Nut,1,0,,Parts/Standard_Parts/Platform_Support_Column_1_Left_Bottom_Nut.step,Separate solid component
+Platform Support Column 1 Left Top Washer,1,0,,Parts/Standard_Parts/Platform_Support_Column_1_Left_Top_Washer.step,Separate solid component
+Platform Support Column 1 Left Top Nut,1,0,,Parts/Standard_Parts/Platform_Support_Column_1_Left_Top_Nut.step,Separate solid component
+Platform Support Column 1 Right,1,0,Parts/Chassis/Platform_Support_Column_1_Right.solidcraft,Parts/Chassis/Platform_Support_Column_1_Right.step,Sketch and feature source
+Platform Support Column 1 Right Tie Rod,1,0,,Parts/Standard_Parts/Platform_Support_Column_1_Right_Tie_Rod.step,Separate solid component
+Platform Support Column 1 Right Bottom Washer,1,0,,Parts/Standard_Parts/Platform_Support_Column_1_Right_Bottom_Washer.step,Separate solid component
+Platform Support Column 1 Right Bottom Nut,1,0,,Parts/Standard_Parts/Platform_Support_Column_1_Right_Bottom_Nut.step,Separate solid component
+Platform Support Column 1 Right Top Washer,1,0,,Parts/Standard_Parts/Platform_Support_Column_1_Right_Top_Washer.step,Separate solid component
+Platform Support Column 1 Right Top Nut,1,0,,Parts/Standard_Parts/Platform_Support_Column_1_Right_Top_Nut.step,Separate solid component
+Platform Support Column 2 Left,1,0,Parts/Chassis/Platform_Support_Column_2_Left.solidcraft,Parts/Chassis/Platform_Support_Column_2_Left.step,Sketch and feature source
+Platform Support Column 2 Left Tie Rod,1,0,,Parts/Standard_Parts/Platform_Support_Column_2_Left_Tie_Rod.step,Separate solid component
+Platform Support Column 2 Left Bottom Washer,1,0,,Parts/Standard_Parts/Platform_Support_Column_2_Left_Bottom_Washer.step,Separate solid component
+Platform Support Column 2 Left Bottom Nut,1,0,,Parts/Standard_Parts/Platform_Support_Column_2_Left_Bottom_Nut.step,Separate solid component
+Platform Support Column 2 Right,1,0,Parts/Chassis/Platform_Support_Column_2_Right.solidcraft,Parts/Chassis/Platform_Support_Column_2_Right.step,Sketch and feature source
+Platform Support Column 2 Right Tie Rod,1,0,,Parts/Standard_Parts/Platform_Support_Column_2_Right_Tie_Rod.step,Separate solid component
+Platform Support Column 2 Right Bottom Washer,1,0,,Parts/Standard_Parts/Platform_Support_Column_2_Right_Bottom_Washer.step,Separate solid component
+Platform Support Column 2 Right Bottom Nut,1,0,,Parts/Standard_Parts/Platform_Support_Column_2_Right_Bottom_Nut.step,Separate solid component
+Platform Support Column 3 Left,1,0,Parts/Chassis/Platform_Support_Column_3_Left.solidcraft,Parts/Chassis/Platform_Support_Column_3_Left.step,Sketch and feature source
+Platform Support Column 3 Left Tie Rod,1,0,,Parts/Standard_Parts/Platform_Support_Column_3_Left_Tie_Rod.step,Separate solid component
+Platform Support Column 3 Left Bottom Washer,1,0,,Parts/Standard_Parts/Platform_Support_Column_3_Left_Bottom_Washer.step,Separate solid component
+Platform Support Column 3 Left Bottom Nut,1,0,,Parts/Standard_Parts/Platform_Support_Column_3_Left_Bottom_Nut.step,Separate solid component
+Platform Support Column 3 Right,1,0,Parts/Chassis/Platform_Support_Column_3_Right.solidcraft,Parts/Chassis/Platform_Support_Column_3_Right.step,Sketch and feature source
+Platform Support Column 3 Right Tie Rod,1,0,,Parts/Standard_Parts/Platform_Support_Column_3_Right_Tie_Rod.step,Separate solid component
+Platform Support Column 3 Right Bottom Washer,1,0,,Parts/Standard_Parts/Platform_Support_Column_3_Right_Bottom_Washer.step,Separate solid component
+Platform Support Column 3 Right Bottom Nut,1,0,,Parts/Standard_Parts/Platform_Support_Column_3_Right_Bottom_Nut.step,Separate solid component
+Platform Joint Strap 1 Left,1,0,Parts/Chassis/Platform_Joint_Strap_1_Left.solidcraft,Parts/Chassis/Platform_Joint_Strap_1_Left.step,Sketch and feature source
+Platform Joint Strap 1 Left Screw 1,1,0,,Parts/Standard_Parts/Platform_Joint_Strap_1_Left_Screw_1.step,Separate solid component
+Platform Joint Strap 1 Left Nut 1,1,0,,Parts/Standard_Parts/Platform_Joint_Strap_1_Left_Nut_1.step,Separate solid component
+Platform Joint Strap 1 Left Screw 2,1,0,,Parts/Standard_Parts/Platform_Joint_Strap_1_Left_Screw_2.step,Separate solid component
+Platform Joint Strap 1 Left Nut 2,1,0,,Parts/Standard_Parts/Platform_Joint_Strap_1_Left_Nut_2.step,Separate solid component
+Platform Joint Strap 1 Right,1,0,Parts/Chassis/Platform_Joint_Strap_1_Right.solidcraft,Parts/Chassis/Platform_Joint_Strap_1_Right.step,Sketch and feature source
+Platform Joint Strap 1 Right Screw 1,1,0,,Parts/Standard_Parts/Platform_Joint_Strap_1_Right_Screw_1.step,Separate solid component
+Platform Joint Strap 1 Right Nut 1,1,0,,Parts/Standard_Parts/Platform_Joint_Strap_1_Right_Nut_1.step,Separate solid component
+Platform Joint Strap 1 Right Screw 2,1,0,,Parts/Standard_Parts/Platform_Joint_Strap_1_Right_Screw_2.step,Separate solid component
+Platform Joint Strap 1 Right Nut 2,1,0,,Parts/Standard_Parts/Platform_Joint_Strap_1_Right_Nut_2.step,Separate solid component
+Platform Joint Strap 2 Left,1,0,Parts/Chassis/Platform_Joint_Strap_2_Left.solidcraft,Parts/Chassis/Platform_Joint_Strap_2_Left.step,Sketch and feature source
+Platform Joint Strap 2 Left Screw 1,1,0,,Parts/Standard_Parts/Platform_Joint_Strap_2_Left_Screw_1.step,Separate solid component
+Platform Joint Strap 2 Left Nut 1,1,0,,Parts/Standard_Parts/Platform_Joint_Strap_2_Left_Nut_1.step,Separate solid component
+Platform Joint Strap 2 Left Screw 2,1,0,,Parts/Standard_Parts/Platform_Joint_Strap_2_Left_Screw_2.step,Separate solid component
+Platform Joint Strap 2 Left Nut 2,1,0,,Parts/Standard_Parts/Platform_Joint_Strap_2_Left_Nut_2.step,Separate solid component
+Platform Joint Strap 2 Right,1,0,Parts/Chassis/Platform_Joint_Strap_2_Right.solidcraft,Parts/Chassis/Platform_Joint_Strap_2_Right.step,Sketch and feature source
+Platform Joint Strap 2 Right Screw 1,1,0,,Parts/Standard_Parts/Platform_Joint_Strap_2_Right_Screw_1.step,Separate solid component
+Platform Joint Strap 2 Right Nut 1,1,0,,Parts/Standard_Parts/Platform_Joint_Strap_2_Right_Nut_1.step,Separate solid component
+Platform Joint Strap 2 Right Screw 2,1,0,,Parts/Standard_Parts/Platform_Joint_Strap_2_Right_Screw_2.step,Separate solid component
+Platform Joint Strap 2 Right Nut 2,1,0,,Parts/Standard_Parts/Platform_Joint_Strap_2_Right_Nut_2.step,Separate solid component
+Battery Tray Right,1,0,Parts/Chassis/Battery_Tray_Right.solidcraft,Parts/Chassis/Battery_Tray_Right.step,Sketch and feature source
+Battery Tray Right Screw 1,1,0,,Parts/Standard_Parts/Battery_Tray_Right_Screw_1.step,Separate solid component
+Battery Tray Right Nut 1,1,0,,Parts/Standard_Parts/Battery_Tray_Right_Nut_1.step,Separate solid component
+Battery Tray Right Screw 2,1,0,,Parts/Standard_Parts/Battery_Tray_Right_Screw_2.step,Separate solid component
+Battery Tray Right Nut 2,1,0,,Parts/Standard_Parts/Battery_Tray_Right_Nut_2.step,Separate solid component
+Swappable3S Battery Right,1,0,,Parts/Standard_Parts/Swappable3S_Battery_Right.step,Separate solid component
+Battery Strap Right 1,1,0,Parts/Chassis/Battery_Strap_Right_1.solidcraft,Parts/Chassis/Battery_Strap_Right_1.step,Sketch and feature source
+Battery Strap Right 2,1,0,Parts/Chassis/Battery_Strap_Right_2.solidcraft,Parts/Chassis/Battery_Strap_Right_2.step,Sketch and feature source
+Battery Tray Left,1,0,Parts/Chassis/Battery_Tray_Left.solidcraft,Parts/Chassis/Battery_Tray_Left.step,Sketch and feature source
+Battery Tray Left Screw 1,1,0,,Parts/Standard_Parts/Battery_Tray_Left_Screw_1.step,Separate solid component
+Battery Tray Left Nut 1,1,0,,Parts/Standard_Parts/Battery_Tray_Left_Nut_1.step,Separate solid component
+Battery Tray Left Screw 2,1,0,,Parts/Standard_Parts/Battery_Tray_Left_Screw_2.step,Separate solid component
+Battery Tray Left Nut 2,1,0,,Parts/Standard_Parts/Battery_Tray_Left_Nut_2.step,Separate solid component
+Swappable3S Battery Left,1,0,,Parts/Standard_Parts/Swappable3S_Battery_Left.step,Separate solid component
+Battery Strap Left 1,1,0,Parts/Chassis/Battery_Strap_Left_1.solidcraft,Parts/Chassis/Battery_Strap_Left_1.step,Sketch and feature source
+Battery Strap Left 2,1,0,Parts/Chassis/Battery_Strap_Left_2.solidcraft,Parts/Chassis/Battery_Strap_Left_2.step,Sketch and feature source
+Controller Shelf,1,0,Parts/Chassis/Controller_Shelf.solidcraft,Parts/Chassis/Controller_Shelf.step,Sketch and feature source
+Controller Shelf Post 1,1,0,Parts/Chassis/Controller_Shelf_Post_1.solidcraft,Parts/Chassis/Controller_Shelf_Post_1.step,Sketch and feature source
+Controller Shelf Screw 1,1,0,,Parts/Standard_Parts/Controller_Shelf_Screw_1.step,Separate solid component
+Controller Shelf Nut 1,1,0,,Parts/Standard_Parts/Controller_Shelf_Nut_1.step,Separate solid component
+Controller Shelf Post 2,1,0,Parts/Chassis/Controller_Shelf_Post_2.solidcraft,Parts/Chassis/Controller_Shelf_Post_2.step,Sketch and feature source
+Controller Shelf Screw 2,1,0,,Parts/Standard_Parts/Controller_Shelf_Screw_2.step,Separate solid component
+Controller Shelf Nut 2,1,0,,Parts/Standard_Parts/Controller_Shelf_Nut_2.step,Separate solid component
+Controller Shelf Post 3,1,0,Parts/Chassis/Controller_Shelf_Post_3.solidcraft,Parts/Chassis/Controller_Shelf_Post_3.step,Sketch and feature source
+Controller Shelf Screw 3,1,0,,Parts/Standard_Parts/Controller_Shelf_Screw_3.step,Separate solid component
+Controller Shelf Nut 3,1,0,,Parts/Standard_Parts/Controller_Shelf_Nut_3.step,Separate solid component
+Controller Shelf Post 4,1,0,Parts/Chassis/Controller_Shelf_Post_4.solidcraft,Parts/Chassis/Controller_Shelf_Post_4.step,Sketch and feature source
+Controller Shelf Screw 4,1,0,,Parts/Standard_Parts/Controller_Shelf_Screw_4.step,Separate solid component
+Controller Shelf Nut 4,1,0,,Parts/Standard_Parts/Controller_Shelf_Nut_4.step,Separate solid component
+Wheel PWM Board PCA9685,1,0,,Parts/Standard_Parts/Wheel_PWM_Board_PCA9685.step,Separate solid component
+Wheel PWM Board PCA9685 Mount 1 Standoff,1,0,Parts/Chassis/Wheel_PWM_Board_PCA9685_Mount_1_Standoff.solidcraft,Parts/Chassis/Wheel_PWM_Board_PCA9685_Mount_1_Standoff.step,Sketch and feature source
+Wheel PWM Board PCA9685 Mount 1 Screw,1,0,,Parts/Standard_Parts/Wheel_PWM_Board_PCA9685_Mount_1_Screw.step,Separate solid component
+Wheel PWM Board PCA9685 Mount 1 Nut,1,0,,Parts/Standard_Parts/Wheel_PWM_Board_PCA9685_Mount_1_Nut.step,Separate solid component
+Wheel PWM Board PCA9685 Mount 2 Standoff,1,0,Parts/Chassis/Wheel_PWM_Board_PCA9685_Mount_2_Standoff.solidcraft,Parts/Chassis/Wheel_PWM_Board_PCA9685_Mount_2_Standoff.step,Sketch and feature source
+Wheel PWM Board PCA9685 Mount 2 Screw,1,0,,Parts/Standard_Parts/Wheel_PWM_Board_PCA9685_Mount_2_Screw.step,Separate solid component
+Wheel PWM Board PCA9685 Mount 2 Nut,1,0,,Parts/Standard_Parts/Wheel_PWM_Board_PCA9685_Mount_2_Nut.step,Separate solid component
+Wheel PWM Board PCA9685 Mount 3 Standoff,1,0,Parts/Chassis/Wheel_PWM_Board_PCA9685_Mount_3_Standoff.solidcraft,Parts/Chassis/Wheel_PWM_Board_PCA9685_Mount_3_Standoff.step,Sketch and feature source
+Wheel PWM Board PCA9685 Mount 3 Screw,1,0,,Parts/Standard_Parts/Wheel_PWM_Board_PCA9685_Mount_3_Screw.step,Separate solid component
+Wheel PWM Board PCA9685 Mount 3 Nut,1,0,,Parts/Standard_Parts/Wheel_PWM_Board_PCA9685_Mount_3_Nut.step,Separate solid component
+Wheel PWM Board PCA9685 Mount 4 Standoff,1,0,Parts/Chassis/Wheel_PWM_Board_PCA9685_Mount_4_Standoff.solidcraft,Parts/Chassis/Wheel_PWM_Board_PCA9685_Mount_4_Standoff.step,Sketch and feature source
+Wheel PWM Board PCA9685 Mount 4 Screw,1,0,,Parts/Standard_Parts/Wheel_PWM_Board_PCA9685_Mount_4_Screw.step,Separate solid component
+Wheel PWM Board PCA9685 Mount 4 Nut,1,0,,Parts/Standard_Parts/Wheel_PWM_Board_PCA9685_Mount_4_Nut.step,Separate solid component
+Preload PWM Board PCA9685,1,0,,Parts/Standard_Parts/Preload_PWM_Board_PCA9685.step,Separate solid component
+Preload PWM Board PCA9685 Mount 1 Standoff,1,0,Parts/Chassis/Preload_PWM_Board_PCA9685_Mount_1_Standoff.solidcraft,Parts/Chassis/Preload_PWM_Board_PCA9685_Mount_1_Standoff.step,Sketch and feature source
+Preload PWM Board PCA9685 Mount 1 Screw,1,0,,Parts/Standard_Parts/Preload_PWM_Board_PCA9685_Mount_1_Screw.step,Separate solid component
+Preload PWM Board PCA9685 Mount 1 Nut,1,0,,Parts/Standard_Parts/Preload_PWM_Board_PCA9685_Mount_1_Nut.step,Separate solid component
+Preload PWM Board PCA9685 Mount 2 Standoff,1,0,Parts/Chassis/Preload_PWM_Board_PCA9685_Mount_2_Standoff.solidcraft,Parts/Chassis/Preload_PWM_Board_PCA9685_Mount_2_Standoff.step,Sketch and feature source
+Preload PWM Board PCA9685 Mount 2 Screw,1,0,,Parts/Standard_Parts/Preload_PWM_Board_PCA9685_Mount_2_Screw.step,Separate solid component
+Preload PWM Board PCA9685 Mount 2 Nut,1,0,,Parts/Standard_Parts/Preload_PWM_Board_PCA9685_Mount_2_Nut.step,Separate solid component
+Preload PWM Board PCA9685 Mount 3 Standoff,1,0,Parts/Chassis/Preload_PWM_Board_PCA9685_Mount_3_Standoff.solidcraft,Parts/Chassis/Preload_PWM_Board_PCA9685_Mount_3_Standoff.step,Sketch and feature source
+Preload PWM Board PCA9685 Mount 3 Screw,1,0,,Parts/Standard_Parts/Preload_PWM_Board_PCA9685_Mount_3_Screw.step,Separate solid component
+Preload PWM Board PCA9685 Mount 3 Nut,1,0,,Parts/Standard_Parts/Preload_PWM_Board_PCA9685_Mount_3_Nut.step,Separate solid component
+Preload PWM Board PCA9685 Mount 4 Standoff,1,0,Parts/Chassis/Preload_PWM_Board_PCA9685_Mount_4_Standoff.solidcraft,Parts/Chassis/Preload_PWM_Board_PCA9685_Mount_4_Standoff.step,Sketch and feature source
+Preload PWM Board PCA9685 Mount 4 Screw,1,0,,Parts/Standard_Parts/Preload_PWM_Board_PCA9685_Mount_4_Screw.step,Separate solid component
+Preload PWM Board PCA9685 Mount 4 Nut,1,0,,Parts/Standard_Parts/Preload_PWM_Board_PCA9685_Mount_4_Nut.step,Separate solid component
+Pico Controller,1,0,,Parts/Standard_Parts/Pico_Controller.step,Separate solid component
+Pico Controller Mount 1 Standoff,1,0,Parts/Chassis/Pico_Controller_Mount_1_Standoff.solidcraft,Parts/Chassis/Pico_Controller_Mount_1_Standoff.step,Sketch and feature source
+Pico Controller Mount 1 Screw,1,0,,Parts/Standard_Parts/Pico_Controller_Mount_1_Screw.step,Separate solid component
+Pico Controller Mount 1 Nut,1,0,,Parts/Standard_Parts/Pico_Controller_Mount_1_Nut.step,Separate solid component
+Pico Controller Mount 2 Standoff,1,0,Parts/Chassis/Pico_Controller_Mount_2_Standoff.solidcraft,Parts/Chassis/Pico_Controller_Mount_2_Standoff.step,Sketch and feature source
+Pico Controller Mount 2 Screw,1,0,,Parts/Standard_Parts/Pico_Controller_Mount_2_Screw.step,Separate solid component
+Pico Controller Mount 2 Nut,1,0,,Parts/Standard_Parts/Pico_Controller_Mount_2_Nut.step,Separate solid component
+Pico Controller Mount 3 Standoff,1,0,Parts/Chassis/Pico_Controller_Mount_3_Standoff.solidcraft,Parts/Chassis/Pico_Controller_Mount_3_Standoff.step,Sketch and feature source
+Pico Controller Mount 3 Screw,1,0,,Parts/Standard_Parts/Pico_Controller_Mount_3_Screw.step,Separate solid component
+Pico Controller Mount 3 Nut,1,0,,Parts/Standard_Parts/Pico_Controller_Mount_3_Nut.step,Separate solid component
+Pico Controller Mount 4 Standoff,1,0,Parts/Chassis/Pico_Controller_Mount_4_Standoff.solidcraft,Parts/Chassis/Pico_Controller_Mount_4_Standoff.step,Sketch and feature source
+Pico Controller Mount 4 Screw,1,0,,Parts/Standard_Parts/Pico_Controller_Mount_4_Screw.step,Separate solid component
+Pico Controller Mount 4 Nut,1,0,,Parts/Standard_Parts/Pico_Controller_Mount_4_Nut.step,Separate solid component
+Analog Multiplexer1,1,0,,Parts/Standard_Parts/Analog_Multiplexer1.step,Separate solid component
+Analog Multiplexer1 Mount 1 Standoff,1,0,Parts/Chassis/Analog_Multiplexer1_Mount_1_Standoff.solidcraft,Parts/Chassis/Analog_Multiplexer1_Mount_1_Standoff.step,Sketch and feature source
+Analog Multiplexer1 Mount 1 Screw,1,0,,Parts/Standard_Parts/Analog_Multiplexer1_Mount_1_Screw.step,Separate solid component
+Analog Multiplexer1 Mount 1 Nut,1,0,,Parts/Standard_Parts/Analog_Multiplexer1_Mount_1_Nut.step,Separate solid component
+Analog Multiplexer1 Mount 2 Standoff,1,0,Parts/Chassis/Analog_Multiplexer1_Mount_2_Standoff.solidcraft,Parts/Chassis/Analog_Multiplexer1_Mount_2_Standoff.step,Sketch and feature source
+Analog Multiplexer1 Mount 2 Screw,1,0,,Parts/Standard_Parts/Analog_Multiplexer1_Mount_2_Screw.step,Separate solid component
+Analog Multiplexer1 Mount 2 Nut,1,0,,Parts/Standard_Parts/Analog_Multiplexer1_Mount_2_Nut.step,Separate solid component
+Analog Multiplexer1 Mount 3 Standoff,1,0,Parts/Chassis/Analog_Multiplexer1_Mount_3_Standoff.solidcraft,Parts/Chassis/Analog_Multiplexer1_Mount_3_Standoff.step,Sketch and feature source
+Analog Multiplexer1 Mount 3 Screw,1,0,,Parts/Standard_Parts/Analog_Multiplexer1_Mount_3_Screw.step,Separate solid component
+Analog Multiplexer1 Mount 3 Nut,1,0,,Parts/Standard_Parts/Analog_Multiplexer1_Mount_3_Nut.step,Separate solid component
+Analog Multiplexer1 Mount 4 Standoff,1,0,Parts/Chassis/Analog_Multiplexer1_Mount_4_Standoff.solidcraft,Parts/Chassis/Analog_Multiplexer1_Mount_4_Standoff.step,Sketch and feature source
+Analog Multiplexer1 Mount 4 Screw,1,0,,Parts/Standard_Parts/Analog_Multiplexer1_Mount_4_Screw.step,Separate solid component
+Analog Multiplexer1 Mount 4 Nut,1,0,,Parts/Standard_Parts/Analog_Multiplexer1_Mount_4_Nut.step,Separate solid component
+Analog Multiplexer2,1,0,,Parts/Standard_Parts/Analog_Multiplexer2.step,Separate solid component
+Analog Multiplexer2 Mount 1 Standoff,1,0,Parts/Chassis/Analog_Multiplexer2_Mount_1_Standoff.solidcraft,Parts/Chassis/Analog_Multiplexer2_Mount_1_Standoff.step,Sketch and feature source
+Analog Multiplexer2 Mount 1 Screw,1,0,,Parts/Standard_Parts/Analog_Multiplexer2_Mount_1_Screw.step,Separate solid component
+Analog Multiplexer2 Mount 1 Nut,1,0,,Parts/Standard_Parts/Analog_Multiplexer2_Mount_1_Nut.step,Separate solid component
+Analog Multiplexer2 Mount 2 Standoff,1,0,Parts/Chassis/Analog_Multiplexer2_Mount_2_Standoff.solidcraft,Parts/Chassis/Analog_Multiplexer2_Mount_2_Standoff.step,Sketch and feature source
+Analog Multiplexer2 Mount 2 Screw,1,0,,Parts/Standard_Parts/Analog_Multiplexer2_Mount_2_Screw.step,Separate solid component
+Analog Multiplexer2 Mount 2 Nut,1,0,,Parts/Standard_Parts/Analog_Multiplexer2_Mount_2_Nut.step,Separate solid component
+Analog Multiplexer2 Mount 3 Standoff,1,0,Parts/Chassis/Analog_Multiplexer2_Mount_3_Standoff.solidcraft,Parts/Chassis/Analog_Multiplexer2_Mount_3_Standoff.step,Sketch and feature source
+Analog Multiplexer2 Mount 3 Screw,1,0,,Parts/Standard_Parts/Analog_Multiplexer2_Mount_3_Screw.step,Separate solid component
+Analog Multiplexer2 Mount 3 Nut,1,0,,Parts/Standard_Parts/Analog_Multiplexer2_Mount_3_Nut.step,Separate solid component
+Analog Multiplexer2 Mount 4 Standoff,1,0,Parts/Chassis/Analog_Multiplexer2_Mount_4_Standoff.solidcraft,Parts/Chassis/Analog_Multiplexer2_Mount_4_Standoff.step,Sketch and feature source
+Analog Multiplexer2 Mount 4 Screw,1,0,,Parts/Standard_Parts/Analog_Multiplexer2_Mount_4_Screw.step,Separate solid component
+Analog Multiplexer2 Mount 4 Nut,1,0,,Parts/Standard_Parts/Analog_Multiplexer2_Mount_4_Nut.step,Separate solid component
+Logging MicroSD Card,1,0,,Parts/Standard_Parts/Logging_MicroSD_Card.step,Separate solid component
+MicroSD Reader,1,0,,Parts/Standard_Parts/MicroSD_Reader.step,Separate solid component
+MicroSD Reader Mount 1 Standoff,1,0,Parts/Chassis/MicroSD_Reader_Mount_1_Standoff.solidcraft,Parts/Chassis/MicroSD_Reader_Mount_1_Standoff.step,Sketch and feature source
+MicroSD Reader Mount 1 Screw,1,0,,Parts/Standard_Parts/MicroSD_Reader_Mount_1_Screw.step,Separate solid component
+MicroSD Reader Mount 1 Nut,1,0,,Parts/Standard_Parts/MicroSD_Reader_Mount_1_Nut.step,Separate solid component
+MicroSD Reader Mount 2 Standoff,1,0,Parts/Chassis/MicroSD_Reader_Mount_2_Standoff.solidcraft,Parts/Chassis/MicroSD_Reader_Mount_2_Standoff.step,Sketch and feature source
+MicroSD Reader Mount 2 Screw,1,0,,Parts/Standard_Parts/MicroSD_Reader_Mount_2_Screw.step,Separate solid component
+MicroSD Reader Mount 2 Nut,1,0,,Parts/Standard_Parts/MicroSD_Reader_Mount_2_Nut.step,Separate solid component
+MicroSD Reader Mount 3 Standoff,1,0,Parts/Chassis/MicroSD_Reader_Mount_3_Standoff.solidcraft,Parts/Chassis/MicroSD_Reader_Mount_3_Standoff.step,Sketch and feature source
+MicroSD Reader Mount 3 Screw,1,0,,Parts/Standard_Parts/MicroSD_Reader_Mount_3_Screw.step,Separate solid component
+MicroSD Reader Mount 3 Nut,1,0,,Parts/Standard_Parts/MicroSD_Reader_Mount_3_Nut.step,Separate solid component
+MicroSD Reader Mount 4 Standoff,1,0,Parts/Chassis/MicroSD_Reader_Mount_4_Standoff.solidcraft,Parts/Chassis/MicroSD_Reader_Mount_4_Standoff.step,Sketch and feature source
+MicroSD Reader Mount 4 Screw,1,0,,Parts/Standard_Parts/MicroSD_Reader_Mount_4_Screw.step,Separate solid component
+MicroSD Reader Mount 4 Nut,1,0,,Parts/Standard_Parts/MicroSD_Reader_Mount_4_Nut.step,Separate solid component
+Input Conditioning PCB,1,0,,Parts/Standard_Parts/Input_Conditioning_PCB.step,Separate solid component
+Input Conditioning PCB Mount 1 Standoff,1,0,Parts/Chassis/Input_Conditioning_PCB_Mount_1_Standoff.solidcraft,Parts/Chassis/Input_Conditioning_PCB_Mount_1_Standoff.step,Sketch and feature source
+Input Conditioning PCB Mount 1 Screw,1,0,,Parts/Standard_Parts/Input_Conditioning_PCB_Mount_1_Screw.step,Separate solid component
+Input Conditioning PCB Mount 1 Nut,1,0,,Parts/Standard_Parts/Input_Conditioning_PCB_Mount_1_Nut.step,Separate solid component
+Input Conditioning PCB Mount 2 Standoff,1,0,Parts/Chassis/Input_Conditioning_PCB_Mount_2_Standoff.solidcraft,Parts/Chassis/Input_Conditioning_PCB_Mount_2_Standoff.step,Sketch and feature source
+Input Conditioning PCB Mount 2 Screw,1,0,,Parts/Standard_Parts/Input_Conditioning_PCB_Mount_2_Screw.step,Separate solid component
+Input Conditioning PCB Mount 2 Nut,1,0,,Parts/Standard_Parts/Input_Conditioning_PCB_Mount_2_Nut.step,Separate solid component
+Input Conditioning PCB Mount 3 Standoff,1,0,Parts/Chassis/Input_Conditioning_PCB_Mount_3_Standoff.solidcraft,Parts/Chassis/Input_Conditioning_PCB_Mount_3_Standoff.step,Sketch and feature source
+Input Conditioning PCB Mount 3 Screw,1,0,,Parts/Standard_Parts/Input_Conditioning_PCB_Mount_3_Screw.step,Separate solid component
+Input Conditioning PCB Mount 3 Nut,1,0,,Parts/Standard_Parts/Input_Conditioning_PCB_Mount_3_Nut.step,Separate solid component
+Input Conditioning PCB Mount 4 Standoff,1,0,Parts/Chassis/Input_Conditioning_PCB_Mount_4_Standoff.solidcraft,Parts/Chassis/Input_Conditioning_PCB_Mount_4_Standoff.step,Sketch and feature source
+Input Conditioning PCB Mount 4 Screw,1,0,,Parts/Standard_Parts/Input_Conditioning_PCB_Mount_4_Screw.step,Separate solid component
+Input Conditioning PCB Mount 4 Nut,1,0,,Parts/Standard_Parts/Input_Conditioning_PCB_Mount_4_Nut.step,Separate solid component
+Logic Buffer74HCT245 1,1,0,,Parts/Standard_Parts/Logic_Buffer74HCT245_1.step,Separate solid component
+Logic Buffer74HCT245 2,1,0,,Parts/Standard_Parts/Logic_Buffer74HCT245_2.step,Separate solid component
+Logic Buffer74HCT245 3,1,0,,Parts/Standard_Parts/Logic_Buffer74HCT245_3.step,Separate solid component
+Wheel Drive H Bridge 1,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_1.step,Separate solid component
+Wheel Drive H Bridge 1 Mount 1 Standoff,1,0,Parts/Chassis/Wheel_Drive_H_Bridge_1_Mount_1_Standoff.solidcraft,Parts/Chassis/Wheel_Drive_H_Bridge_1_Mount_1_Standoff.step,Sketch and feature source
+Wheel Drive H Bridge 1 Mount 1 Screw,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_1_Mount_1_Screw.step,Separate solid component
+Wheel Drive H Bridge 1 Mount 1 Nut,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_1_Mount_1_Nut.step,Separate solid component
+Wheel Drive H Bridge 1 Mount 2 Standoff,1,0,Parts/Chassis/Wheel_Drive_H_Bridge_1_Mount_2_Standoff.solidcraft,Parts/Chassis/Wheel_Drive_H_Bridge_1_Mount_2_Standoff.step,Sketch and feature source
+Wheel Drive H Bridge 1 Mount 2 Screw,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_1_Mount_2_Screw.step,Separate solid component
+Wheel Drive H Bridge 1 Mount 2 Nut,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_1_Mount_2_Nut.step,Separate solid component
+Wheel Drive H Bridge 1 Mount 3 Standoff,1,0,Parts/Chassis/Wheel_Drive_H_Bridge_1_Mount_3_Standoff.solidcraft,Parts/Chassis/Wheel_Drive_H_Bridge_1_Mount_3_Standoff.step,Sketch and feature source
+Wheel Drive H Bridge 1 Mount 3 Screw,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_1_Mount_3_Screw.step,Separate solid component
+Wheel Drive H Bridge 1 Mount 3 Nut,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_1_Mount_3_Nut.step,Separate solid component
+Wheel Drive H Bridge 1 Mount 4 Standoff,1,0,Parts/Chassis/Wheel_Drive_H_Bridge_1_Mount_4_Standoff.solidcraft,Parts/Chassis/Wheel_Drive_H_Bridge_1_Mount_4_Standoff.step,Sketch and feature source
+Wheel Drive H Bridge 1 Mount 4 Screw,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_1_Mount_4_Screw.step,Separate solid component
+Wheel Drive H Bridge 1 Mount 4 Nut,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_1_Mount_4_Nut.step,Separate solid component
+Wheel Drive H Bridge 2,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_2.step,Separate solid component
+Wheel Drive H Bridge 2 Mount 1 Standoff,1,0,Parts/Chassis/Wheel_Drive_H_Bridge_2_Mount_1_Standoff.solidcraft,Parts/Chassis/Wheel_Drive_H_Bridge_2_Mount_1_Standoff.step,Sketch and feature source
+Wheel Drive H Bridge 2 Mount 1 Screw,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_2_Mount_1_Screw.step,Separate solid component
+Wheel Drive H Bridge 2 Mount 1 Nut,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_2_Mount_1_Nut.step,Separate solid component
+Wheel Drive H Bridge 2 Mount 2 Standoff,1,0,Parts/Chassis/Wheel_Drive_H_Bridge_2_Mount_2_Standoff.solidcraft,Parts/Chassis/Wheel_Drive_H_Bridge_2_Mount_2_Standoff.step,Sketch and feature source
+Wheel Drive H Bridge 2 Mount 2 Screw,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_2_Mount_2_Screw.step,Separate solid component
+Wheel Drive H Bridge 2 Mount 2 Nut,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_2_Mount_2_Nut.step,Separate solid component
+Wheel Drive H Bridge 2 Mount 3 Standoff,1,0,Parts/Chassis/Wheel_Drive_H_Bridge_2_Mount_3_Standoff.solidcraft,Parts/Chassis/Wheel_Drive_H_Bridge_2_Mount_3_Standoff.step,Sketch and feature source
+Wheel Drive H Bridge 2 Mount 3 Screw,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_2_Mount_3_Screw.step,Separate solid component
+Wheel Drive H Bridge 2 Mount 3 Nut,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_2_Mount_3_Nut.step,Separate solid component
+Wheel Drive H Bridge 2 Mount 4 Standoff,1,0,Parts/Chassis/Wheel_Drive_H_Bridge_2_Mount_4_Standoff.solidcraft,Parts/Chassis/Wheel_Drive_H_Bridge_2_Mount_4_Standoff.step,Sketch and feature source
+Wheel Drive H Bridge 2 Mount 4 Screw,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_2_Mount_4_Screw.step,Separate solid component
+Wheel Drive H Bridge 2 Mount 4 Nut,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_2_Mount_4_Nut.step,Separate solid component
+Wheel Drive H Bridge 3,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_3.step,Separate solid component
+Wheel Drive H Bridge 3 Mount 1 Standoff,1,0,Parts/Chassis/Wheel_Drive_H_Bridge_3_Mount_1_Standoff.solidcraft,Parts/Chassis/Wheel_Drive_H_Bridge_3_Mount_1_Standoff.step,Sketch and feature source
+Wheel Drive H Bridge 3 Mount 1 Screw,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_3_Mount_1_Screw.step,Separate solid component
+Wheel Drive H Bridge 3 Mount 1 Nut,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_3_Mount_1_Nut.step,Separate solid component
+Wheel Drive H Bridge 3 Mount 2 Standoff,1,0,Parts/Chassis/Wheel_Drive_H_Bridge_3_Mount_2_Standoff.solidcraft,Parts/Chassis/Wheel_Drive_H_Bridge_3_Mount_2_Standoff.step,Sketch and feature source
+Wheel Drive H Bridge 3 Mount 2 Screw,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_3_Mount_2_Screw.step,Separate solid component
+Wheel Drive H Bridge 3 Mount 2 Nut,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_3_Mount_2_Nut.step,Separate solid component
+Wheel Drive H Bridge 3 Mount 3 Standoff,1,0,Parts/Chassis/Wheel_Drive_H_Bridge_3_Mount_3_Standoff.solidcraft,Parts/Chassis/Wheel_Drive_H_Bridge_3_Mount_3_Standoff.step,Sketch and feature source
+Wheel Drive H Bridge 3 Mount 3 Screw,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_3_Mount_3_Screw.step,Separate solid component
+Wheel Drive H Bridge 3 Mount 3 Nut,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_3_Mount_3_Nut.step,Separate solid component
+Wheel Drive H Bridge 3 Mount 4 Standoff,1,0,Parts/Chassis/Wheel_Drive_H_Bridge_3_Mount_4_Standoff.solidcraft,Parts/Chassis/Wheel_Drive_H_Bridge_3_Mount_4_Standoff.step,Sketch and feature source
+Wheel Drive H Bridge 3 Mount 4 Screw,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_3_Mount_4_Screw.step,Separate solid component
+Wheel Drive H Bridge 3 Mount 4 Nut,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_3_Mount_4_Nut.step,Separate solid component
+Wheel Drive H Bridge 4,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_4.step,Separate solid component
+Wheel Drive H Bridge 4 Mount 1 Standoff,1,0,Parts/Chassis/Wheel_Drive_H_Bridge_4_Mount_1_Standoff.solidcraft,Parts/Chassis/Wheel_Drive_H_Bridge_4_Mount_1_Standoff.step,Sketch and feature source
+Wheel Drive H Bridge 4 Mount 1 Screw,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_4_Mount_1_Screw.step,Separate solid component
+Wheel Drive H Bridge 4 Mount 1 Nut,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_4_Mount_1_Nut.step,Separate solid component
+Wheel Drive H Bridge 4 Mount 2 Standoff,1,0,Parts/Chassis/Wheel_Drive_H_Bridge_4_Mount_2_Standoff.solidcraft,Parts/Chassis/Wheel_Drive_H_Bridge_4_Mount_2_Standoff.step,Sketch and feature source
+Wheel Drive H Bridge 4 Mount 2 Screw,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_4_Mount_2_Screw.step,Separate solid component
+Wheel Drive H Bridge 4 Mount 2 Nut,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_4_Mount_2_Nut.step,Separate solid component
+Wheel Drive H Bridge 4 Mount 3 Standoff,1,0,Parts/Chassis/Wheel_Drive_H_Bridge_4_Mount_3_Standoff.solidcraft,Parts/Chassis/Wheel_Drive_H_Bridge_4_Mount_3_Standoff.step,Sketch and feature source
+Wheel Drive H Bridge 4 Mount 3 Screw,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_4_Mount_3_Screw.step,Separate solid component
+Wheel Drive H Bridge 4 Mount 3 Nut,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_4_Mount_3_Nut.step,Separate solid component
+Wheel Drive H Bridge 4 Mount 4 Standoff,1,0,Parts/Chassis/Wheel_Drive_H_Bridge_4_Mount_4_Standoff.solidcraft,Parts/Chassis/Wheel_Drive_H_Bridge_4_Mount_4_Standoff.step,Sketch and feature source
+Wheel Drive H Bridge 4 Mount 4 Screw,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_4_Mount_4_Screw.step,Separate solid component
+Wheel Drive H Bridge 4 Mount 4 Nut,1,0,,Parts/Standard_Parts/Wheel_Drive_H_Bridge_4_Mount_4_Nut.step,Separate solid component
+Preload H Bridge 1,1,0,,Parts/Standard_Parts/Preload_H_Bridge_1.step,Separate solid component
+Preload H Bridge 1 Mount 1 Standoff,1,0,Parts/Chassis/Preload_H_Bridge_1_Mount_1_Standoff.solidcraft,Parts/Chassis/Preload_H_Bridge_1_Mount_1_Standoff.step,Sketch and feature source
+Preload H Bridge 1 Mount 1 Screw,1,0,,Parts/Standard_Parts/Preload_H_Bridge_1_Mount_1_Screw.step,Separate solid component
+Preload H Bridge 1 Mount 1 Nut,1,0,,Parts/Standard_Parts/Preload_H_Bridge_1_Mount_1_Nut.step,Separate solid component
+Preload H Bridge 1 Mount 2 Standoff,1,0,Parts/Chassis/Preload_H_Bridge_1_Mount_2_Standoff.solidcraft,Parts/Chassis/Preload_H_Bridge_1_Mount_2_Standoff.step,Sketch and feature source
+Preload H Bridge 1 Mount 2 Screw,1,0,,Parts/Standard_Parts/Preload_H_Bridge_1_Mount_2_Screw.step,Separate solid component
+Preload H Bridge 1 Mount 2 Nut,1,0,,Parts/Standard_Parts/Preload_H_Bridge_1_Mount_2_Nut.step,Separate solid component
+Preload H Bridge 1 Mount 3 Standoff,1,0,Parts/Chassis/Preload_H_Bridge_1_Mount_3_Standoff.solidcraft,Parts/Chassis/Preload_H_Bridge_1_Mount_3_Standoff.step,Sketch and feature source
+Preload H Bridge 1 Mount 3 Screw,1,0,,Parts/Standard_Parts/Preload_H_Bridge_1_Mount_3_Screw.step,Separate solid component
+Preload H Bridge 1 Mount 3 Nut,1,0,,Parts/Standard_Parts/Preload_H_Bridge_1_Mount_3_Nut.step,Separate solid component
+Preload H Bridge 1 Mount 4 Standoff,1,0,Parts/Chassis/Preload_H_Bridge_1_Mount_4_Standoff.solidcraft,Parts/Chassis/Preload_H_Bridge_1_Mount_4_Standoff.step,Sketch and feature source
+Preload H Bridge 1 Mount 4 Screw,1,0,,Parts/Standard_Parts/Preload_H_Bridge_1_Mount_4_Screw.step,Separate solid component
+Preload H Bridge 1 Mount 4 Nut,1,0,,Parts/Standard_Parts/Preload_H_Bridge_1_Mount_4_Nut.step,Separate solid component
+Preload H Bridge 2,1,0,,Parts/Standard_Parts/Preload_H_Bridge_2.step,Separate solid component
+Preload H Bridge 2 Mount 1 Standoff,1,0,Parts/Chassis/Preload_H_Bridge_2_Mount_1_Standoff.solidcraft,Parts/Chassis/Preload_H_Bridge_2_Mount_1_Standoff.step,Sketch and feature source
+Preload H Bridge 2 Mount 1 Screw,1,0,,Parts/Standard_Parts/Preload_H_Bridge_2_Mount_1_Screw.step,Separate solid component
+Preload H Bridge 2 Mount 1 Nut,1,0,,Parts/Standard_Parts/Preload_H_Bridge_2_Mount_1_Nut.step,Separate solid component
+Preload H Bridge 2 Mount 2 Standoff,1,0,Parts/Chassis/Preload_H_Bridge_2_Mount_2_Standoff.solidcraft,Parts/Chassis/Preload_H_Bridge_2_Mount_2_Standoff.step,Sketch and feature source
+Preload H Bridge 2 Mount 2 Screw,1,0,,Parts/Standard_Parts/Preload_H_Bridge_2_Mount_2_Screw.step,Separate solid component
+Preload H Bridge 2 Mount 2 Nut,1,0,,Parts/Standard_Parts/Preload_H_Bridge_2_Mount_2_Nut.step,Separate solid component
+Preload H Bridge 2 Mount 3 Standoff,1,0,Parts/Chassis/Preload_H_Bridge_2_Mount_3_Standoff.solidcraft,Parts/Chassis/Preload_H_Bridge_2_Mount_3_Standoff.step,Sketch and feature source
+Preload H Bridge 2 Mount 3 Screw,1,0,,Parts/Standard_Parts/Preload_H_Bridge_2_Mount_3_Screw.step,Separate solid component
+Preload H Bridge 2 Mount 3 Nut,1,0,,Parts/Standard_Parts/Preload_H_Bridge_2_Mount_3_Nut.step,Separate solid component
+Preload H Bridge 2 Mount 4 Standoff,1,0,Parts/Chassis/Preload_H_Bridge_2_Mount_4_Standoff.solidcraft,Parts/Chassis/Preload_H_Bridge_2_Mount_4_Standoff.step,Sketch and feature source
+Preload H Bridge 2 Mount 4 Screw,1,0,,Parts/Standard_Parts/Preload_H_Bridge_2_Mount_4_Screw.step,Separate solid component
+Preload H Bridge 2 Mount 4 Nut,1,0,,Parts/Standard_Parts/Preload_H_Bridge_2_Mount_4_Nut.step,Separate solid component
+Preload H Bridge 3,1,0,,Parts/Standard_Parts/Preload_H_Bridge_3.step,Separate solid component
+Preload H Bridge 3 Mount 1 Standoff,1,0,Parts/Chassis/Preload_H_Bridge_3_Mount_1_Standoff.solidcraft,Parts/Chassis/Preload_H_Bridge_3_Mount_1_Standoff.step,Sketch and feature source
+Preload H Bridge 3 Mount 1 Screw,1,0,,Parts/Standard_Parts/Preload_H_Bridge_3_Mount_1_Screw.step,Separate solid component
+Preload H Bridge 3 Mount 1 Nut,1,0,,Parts/Standard_Parts/Preload_H_Bridge_3_Mount_1_Nut.step,Separate solid component
+Preload H Bridge 3 Mount 2 Standoff,1,0,Parts/Chassis/Preload_H_Bridge_3_Mount_2_Standoff.solidcraft,Parts/Chassis/Preload_H_Bridge_3_Mount_2_Standoff.step,Sketch and feature source
+Preload H Bridge 3 Mount 2 Screw,1,0,,Parts/Standard_Parts/Preload_H_Bridge_3_Mount_2_Screw.step,Separate solid component
+Preload H Bridge 3 Mount 2 Nut,1,0,,Parts/Standard_Parts/Preload_H_Bridge_3_Mount_2_Nut.step,Separate solid component
+Preload H Bridge 3 Mount 3 Standoff,1,0,Parts/Chassis/Preload_H_Bridge_3_Mount_3_Standoff.solidcraft,Parts/Chassis/Preload_H_Bridge_3_Mount_3_Standoff.step,Sketch and feature source
+Preload H Bridge 3 Mount 3 Screw,1,0,,Parts/Standard_Parts/Preload_H_Bridge_3_Mount_3_Screw.step,Separate solid component
+Preload H Bridge 3 Mount 3 Nut,1,0,,Parts/Standard_Parts/Preload_H_Bridge_3_Mount_3_Nut.step,Separate solid component
+Preload H Bridge 3 Mount 4 Standoff,1,0,Parts/Chassis/Preload_H_Bridge_3_Mount_4_Standoff.solidcraft,Parts/Chassis/Preload_H_Bridge_3_Mount_4_Standoff.step,Sketch and feature source
+Preload H Bridge 3 Mount 4 Screw,1,0,,Parts/Standard_Parts/Preload_H_Bridge_3_Mount_4_Screw.step,Separate solid component
+Preload H Bridge 3 Mount 4 Nut,1,0,,Parts/Standard_Parts/Preload_H_Bridge_3_Mount_4_Nut.step,Separate solid component
+Preload H Bridge 4,1,0,,Parts/Standard_Parts/Preload_H_Bridge_4.step,Separate solid component
+Preload H Bridge 4 Mount 1 Standoff,1,0,Parts/Chassis/Preload_H_Bridge_4_Mount_1_Standoff.solidcraft,Parts/Chassis/Preload_H_Bridge_4_Mount_1_Standoff.step,Sketch and feature source
+Preload H Bridge 4 Mount 1 Screw,1,0,,Parts/Standard_Parts/Preload_H_Bridge_4_Mount_1_Screw.step,Separate solid component
+Preload H Bridge 4 Mount 1 Nut,1,0,,Parts/Standard_Parts/Preload_H_Bridge_4_Mount_1_Nut.step,Separate solid component
+Preload H Bridge 4 Mount 2 Standoff,1,0,Parts/Chassis/Preload_H_Bridge_4_Mount_2_Standoff.solidcraft,Parts/Chassis/Preload_H_Bridge_4_Mount_2_Standoff.step,Sketch and feature source
+Preload H Bridge 4 Mount 2 Screw,1,0,,Parts/Standard_Parts/Preload_H_Bridge_4_Mount_2_Screw.step,Separate solid component
+Preload H Bridge 4 Mount 2 Nut,1,0,,Parts/Standard_Parts/Preload_H_Bridge_4_Mount_2_Nut.step,Separate solid component
+Preload H Bridge 4 Mount 3 Standoff,1,0,Parts/Chassis/Preload_H_Bridge_4_Mount_3_Standoff.solidcraft,Parts/Chassis/Preload_H_Bridge_4_Mount_3_Standoff.step,Sketch and feature source
+Preload H Bridge 4 Mount 3 Screw,1,0,,Parts/Standard_Parts/Preload_H_Bridge_4_Mount_3_Screw.step,Separate solid component
+Preload H Bridge 4 Mount 3 Nut,1,0,,Parts/Standard_Parts/Preload_H_Bridge_4_Mount_3_Nut.step,Separate solid component
+Preload H Bridge 4 Mount 4 Standoff,1,0,Parts/Chassis/Preload_H_Bridge_4_Mount_4_Standoff.solidcraft,Parts/Chassis/Preload_H_Bridge_4_Mount_4_Standoff.step,Sketch and feature source
+Preload H Bridge 4 Mount 4 Screw,1,0,,Parts/Standard_Parts/Preload_H_Bridge_4_Mount_4_Screw.step,Separate solid component
+Preload H Bridge 4 Mount 4 Nut,1,0,,Parts/Standard_Parts/Preload_H_Bridge_4_Mount_4_Nut.step,Separate solid component
+Preload H Bridge 5,1,0,,Parts/Standard_Parts/Preload_H_Bridge_5.step,Separate solid component
+Preload H Bridge 5 Mount 1 Standoff,1,0,Parts/Chassis/Preload_H_Bridge_5_Mount_1_Standoff.solidcraft,Parts/Chassis/Preload_H_Bridge_5_Mount_1_Standoff.step,Sketch and feature source
+Preload H Bridge 5 Mount 1 Screw,1,0,,Parts/Standard_Parts/Preload_H_Bridge_5_Mount_1_Screw.step,Separate solid component
+Preload H Bridge 5 Mount 1 Nut,1,0,,Parts/Standard_Parts/Preload_H_Bridge_5_Mount_1_Nut.step,Separate solid component
+Preload H Bridge 5 Mount 2 Standoff,1,0,Parts/Chassis/Preload_H_Bridge_5_Mount_2_Standoff.solidcraft,Parts/Chassis/Preload_H_Bridge_5_Mount_2_Standoff.step,Sketch and feature source
+Preload H Bridge 5 Mount 2 Screw,1,0,,Parts/Standard_Parts/Preload_H_Bridge_5_Mount_2_Screw.step,Separate solid component
+Preload H Bridge 5 Mount 2 Nut,1,0,,Parts/Standard_Parts/Preload_H_Bridge_5_Mount_2_Nut.step,Separate solid component
+Preload H Bridge 5 Mount 3 Standoff,1,0,Parts/Chassis/Preload_H_Bridge_5_Mount_3_Standoff.solidcraft,Parts/Chassis/Preload_H_Bridge_5_Mount_3_Standoff.step,Sketch and feature source
+Preload H Bridge 5 Mount 3 Screw,1,0,,Parts/Standard_Parts/Preload_H_Bridge_5_Mount_3_Screw.step,Separate solid component
+Preload H Bridge 5 Mount 3 Nut,1,0,,Parts/Standard_Parts/Preload_H_Bridge_5_Mount_3_Nut.step,Separate solid component
+Preload H Bridge 5 Mount 4 Standoff,1,0,Parts/Chassis/Preload_H_Bridge_5_Mount_4_Standoff.solidcraft,Parts/Chassis/Preload_H_Bridge_5_Mount_4_Standoff.step,Sketch and feature source
+Preload H Bridge 5 Mount 4 Screw,1,0,,Parts/Standard_Parts/Preload_H_Bridge_5_Mount_4_Screw.step,Separate solid component
+Preload H Bridge 5 Mount 4 Nut,1,0,,Parts/Standard_Parts/Preload_H_Bridge_5_Mount_4_Nut.step,Separate solid component
+Preload H Bridge 6,1,0,,Parts/Standard_Parts/Preload_H_Bridge_6.step,Separate solid component
+Preload H Bridge 6 Mount 1 Standoff,1,0,Parts/Chassis/Preload_H_Bridge_6_Mount_1_Standoff.solidcraft,Parts/Chassis/Preload_H_Bridge_6_Mount_1_Standoff.step,Sketch and feature source
+Preload H Bridge 6 Mount 1 Screw,1,0,,Parts/Standard_Parts/Preload_H_Bridge_6_Mount_1_Screw.step,Separate solid component
+Preload H Bridge 6 Mount 1 Nut,1,0,,Parts/Standard_Parts/Preload_H_Bridge_6_Mount_1_Nut.step,Separate solid component
+Preload H Bridge 6 Mount 2 Standoff,1,0,Parts/Chassis/Preload_H_Bridge_6_Mount_2_Standoff.solidcraft,Parts/Chassis/Preload_H_Bridge_6_Mount_2_Standoff.step,Sketch and feature source
+Preload H Bridge 6 Mount 2 Screw,1,0,,Parts/Standard_Parts/Preload_H_Bridge_6_Mount_2_Screw.step,Separate solid component
+Preload H Bridge 6 Mount 2 Nut,1,0,,Parts/Standard_Parts/Preload_H_Bridge_6_Mount_2_Nut.step,Separate solid component
+Preload H Bridge 6 Mount 3 Standoff,1,0,Parts/Chassis/Preload_H_Bridge_6_Mount_3_Standoff.solidcraft,Parts/Chassis/Preload_H_Bridge_6_Mount_3_Standoff.step,Sketch and feature source
+Preload H Bridge 6 Mount 3 Screw,1,0,,Parts/Standard_Parts/Preload_H_Bridge_6_Mount_3_Screw.step,Separate solid component
+Preload H Bridge 6 Mount 3 Nut,1,0,,Parts/Standard_Parts/Preload_H_Bridge_6_Mount_3_Nut.step,Separate solid component
+Preload H Bridge 6 Mount 4 Standoff,1,0,Parts/Chassis/Preload_H_Bridge_6_Mount_4_Standoff.solidcraft,Parts/Chassis/Preload_H_Bridge_6_Mount_4_Standoff.step,Sketch and feature source
+Preload H Bridge 6 Mount 4 Screw,1,0,,Parts/Standard_Parts/Preload_H_Bridge_6_Mount_4_Screw.step,Separate solid component
+Preload H Bridge 6 Mount 4 Nut,1,0,,Parts/Standard_Parts/Preload_H_Bridge_6_Mount_4_Nut.step,Separate solid component
+Power Electronics Shelf,1,0,Parts/Chassis/Power_Electronics_Shelf.solidcraft,Parts/Chassis/Power_Electronics_Shelf.step,Sketch and feature source
+Power Shelf Post 1,1,0,Parts/Chassis/Power_Shelf_Post_1.solidcraft,Parts/Chassis/Power_Shelf_Post_1.step,Sketch and feature source
+Power Shelf Screw 1,1,0,,Parts/Standard_Parts/Power_Shelf_Screw_1.step,Separate solid component
+Power Shelf Nut 1,1,0,,Parts/Standard_Parts/Power_Shelf_Nut_1.step,Separate solid component
+Power Shelf Post 2,1,0,Parts/Chassis/Power_Shelf_Post_2.solidcraft,Parts/Chassis/Power_Shelf_Post_2.step,Sketch and feature source
+Power Shelf Screw 2,1,0,,Parts/Standard_Parts/Power_Shelf_Screw_2.step,Separate solid component
+Power Shelf Nut 2,1,0,,Parts/Standard_Parts/Power_Shelf_Nut_2.step,Separate solid component
+Power Shelf Post 3,1,0,Parts/Chassis/Power_Shelf_Post_3.solidcraft,Parts/Chassis/Power_Shelf_Post_3.step,Sketch and feature source
+Power Shelf Screw 3,1,0,,Parts/Standard_Parts/Power_Shelf_Screw_3.step,Separate solid component
+Power Shelf Nut 3,1,0,,Parts/Standard_Parts/Power_Shelf_Nut_3.step,Separate solid component
+Power Shelf Post 4,1,0,Parts/Chassis/Power_Shelf_Post_4.solidcraft,Parts/Chassis/Power_Shelf_Post_4.step,Sketch and feature source
+Power Shelf Screw 4,1,0,,Parts/Standard_Parts/Power_Shelf_Screw_4.step,Separate solid component
+Power Shelf Nut 4,1,0,,Parts/Standard_Parts/Power_Shelf_Nut_4.step,Separate solid component
+Logic5V Regulator,1,0,,Parts/Standard_Parts/Logic5V_Regulator.step,Separate solid component
+Logic5V Regulator Mount 1 Standoff,1,0,Parts/Chassis/Logic5V_Regulator_Mount_1_Standoff.solidcraft,Parts/Chassis/Logic5V_Regulator_Mount_1_Standoff.step,Sketch and feature source
+Logic5V Regulator Mount 1 Screw,1,0,,Parts/Standard_Parts/Logic5V_Regulator_Mount_1_Screw.step,Separate solid component
+Logic5V Regulator Mount 1 Nut,1,0,,Parts/Standard_Parts/Logic5V_Regulator_Mount_1_Nut.step,Separate solid component
+Logic5V Regulator Mount 2 Standoff,1,0,Parts/Chassis/Logic5V_Regulator_Mount_2_Standoff.solidcraft,Parts/Chassis/Logic5V_Regulator_Mount_2_Standoff.step,Sketch and feature source
+Logic5V Regulator Mount 2 Screw,1,0,,Parts/Standard_Parts/Logic5V_Regulator_Mount_2_Screw.step,Separate solid component
+Logic5V Regulator Mount 2 Nut,1,0,,Parts/Standard_Parts/Logic5V_Regulator_Mount_2_Nut.step,Separate solid component
+Logic5V Regulator Mount 3 Standoff,1,0,Parts/Chassis/Logic5V_Regulator_Mount_3_Standoff.solidcraft,Parts/Chassis/Logic5V_Regulator_Mount_3_Standoff.step,Sketch and feature source
+Logic5V Regulator Mount 3 Screw,1,0,,Parts/Standard_Parts/Logic5V_Regulator_Mount_3_Screw.step,Separate solid component
+Logic5V Regulator Mount 3 Nut,1,0,,Parts/Standard_Parts/Logic5V_Regulator_Mount_3_Nut.step,Separate solid component
+Logic5V Regulator Mount 4 Standoff,1,0,Parts/Chassis/Logic5V_Regulator_Mount_4_Standoff.solidcraft,Parts/Chassis/Logic5V_Regulator_Mount_4_Standoff.step,Sketch and feature source
+Logic5V Regulator Mount 4 Screw,1,0,,Parts/Standard_Parts/Logic5V_Regulator_Mount_4_Screw.step,Separate solid component
+Logic5V Regulator Mount 4 Nut,1,0,,Parts/Standard_Parts/Logic5V_Regulator_Mount_4_Nut.step,Separate solid component
+Sensor3V3 Regulator,1,0,,Parts/Standard_Parts/Sensor3V3_Regulator.step,Separate solid component
+Sensor3V3 Regulator Mount 1 Standoff,1,0,Parts/Chassis/Sensor3V3_Regulator_Mount_1_Standoff.solidcraft,Parts/Chassis/Sensor3V3_Regulator_Mount_1_Standoff.step,Sketch and feature source
+Sensor3V3 Regulator Mount 1 Screw,1,0,,Parts/Standard_Parts/Sensor3V3_Regulator_Mount_1_Screw.step,Separate solid component
+Sensor3V3 Regulator Mount 1 Nut,1,0,,Parts/Standard_Parts/Sensor3V3_Regulator_Mount_1_Nut.step,Separate solid component
+Sensor3V3 Regulator Mount 2 Standoff,1,0,Parts/Chassis/Sensor3V3_Regulator_Mount_2_Standoff.solidcraft,Parts/Chassis/Sensor3V3_Regulator_Mount_2_Standoff.step,Sketch and feature source
+Sensor3V3 Regulator Mount 2 Screw,1,0,,Parts/Standard_Parts/Sensor3V3_Regulator_Mount_2_Screw.step,Separate solid component
+Sensor3V3 Regulator Mount 2 Nut,1,0,,Parts/Standard_Parts/Sensor3V3_Regulator_Mount_2_Nut.step,Separate solid component
+Sensor3V3 Regulator Mount 3 Standoff,1,0,Parts/Chassis/Sensor3V3_Regulator_Mount_3_Standoff.solidcraft,Parts/Chassis/Sensor3V3_Regulator_Mount_3_Standoff.step,Sketch and feature source
+Sensor3V3 Regulator Mount 3 Screw,1,0,,Parts/Standard_Parts/Sensor3V3_Regulator_Mount_3_Screw.step,Separate solid component
+Sensor3V3 Regulator Mount 3 Nut,1,0,,Parts/Standard_Parts/Sensor3V3_Regulator_Mount_3_Nut.step,Separate solid component
+Sensor3V3 Regulator Mount 4 Standoff,1,0,Parts/Chassis/Sensor3V3_Regulator_Mount_4_Standoff.solidcraft,Parts/Chassis/Sensor3V3_Regulator_Mount_4_Standoff.step,Sketch and feature source
+Sensor3V3 Regulator Mount 4 Screw,1,0,,Parts/Standard_Parts/Sensor3V3_Regulator_Mount_4_Screw.step,Separate solid component
+Sensor3V3 Regulator Mount 4 Nut,1,0,,Parts/Standard_Parts/Sensor3V3_Regulator_Mount_4_Nut.step,Separate solid component
+Fuse Holder Clip,1,0,Parts/Chassis/Fuse_Holder_Clip.solidcraft,Parts/Chassis/Fuse_Holder_Clip.step,Sketch and feature source
+Fuse Clip Screw 1,1,0,,Parts/Standard_Parts/Fuse_Clip_Screw_1.step,Separate solid component
+Fuse Clip Nut 1,1,0,,Parts/Standard_Parts/Fuse_Clip_Nut_1.step,Separate solid component
+Fuse Clip Screw 2,1,0,,Parts/Standard_Parts/Fuse_Clip_Screw_2.step,Separate solid component
+Fuse Clip Nut 2,1,0,,Parts/Standard_Parts/Fuse_Clip_Nut_2.step,Separate solid component
+Main Fuse Holder,1,0,,Parts/Standard_Parts/Main_Fuse_Holder.step,Separate solid component
+Battery Connector Clip,1,0,Parts/Chassis/Battery_Connector_Clip.solidcraft,Parts/Chassis/Battery_Connector_Clip.step,Sketch and feature source
+Battery Connector Clip Screw 1,1,0,,Parts/Standard_Parts/Battery_Connector_Clip_Screw_1.step,Separate solid component
+Battery Connector Clip Nut 1,1,0,,Parts/Standard_Parts/Battery_Connector_Clip_Nut_1.step,Separate solid component
+Battery Connector Clip Screw 2,1,0,,Parts/Standard_Parts/Battery_Connector_Clip_Screw_2.step,Separate solid component
+Battery Connector Clip Nut 2,1,0,,Parts/Standard_Parts/Battery_Connector_Clip_Nut_2.step,Separate solid component
+Battery Output Connector,1,0,,Parts/Standard_Parts/Battery_Output_Connector.step,Separate solid component
+Relay Mounting Tray,1,0,Parts/Chassis/Relay_Mounting_Tray.solidcraft,Parts/Chassis/Relay_Mounting_Tray.step,Sketch and feature source
+Relay Mount Screw 182,1,0,,Parts/Standard_Parts/Relay_Mount_Screw_182.step,Separate solid component
+Relay Mount Nut 182,1,0,,Parts/Standard_Parts/Relay_Mount_Nut_182.step,Separate solid component
+Relay Mount Screw 218,1,0,,Parts/Standard_Parts/Relay_Mount_Screw_218.step,Separate solid component
+Relay Mount Nut 218,1,0,,Parts/Standard_Parts/Relay_Mount_Nut_218.step,Separate solid component
+Relay Socket,1,0,,Parts/Standard_Parts/Relay_Socket.step,Separate solid component
+Motor Power Relay,1,0,,Parts/Standard_Parts/Motor_Power_Relay.step,Separate solid component
+I2C Shelf Screw 1,1,0,,Parts/Standard_Parts/I2C_Shelf_Screw_1.step,Separate solid component
+I2C Shelf Nut 1,1,0,,Parts/Standard_Parts/I2C_Shelf_Nut_1.step,Separate solid component
+I2C Shelf Screw 2,1,0,,Parts/Standard_Parts/I2C_Shelf_Screw_2.step,Separate solid component
+I2C Shelf Nut 2,1,0,,Parts/Standard_Parts/I2C_Shelf_Nut_2.step,Separate solid component
+I2C Shelf Screw 3,1,0,,Parts/Standard_Parts/I2C_Shelf_Screw_3.step,Separate solid component
+I2C Shelf Nut 3,1,0,,Parts/Standard_Parts/I2C_Shelf_Nut_3.step,Separate solid component
+I2C Shelf Screw 4,1,0,,Parts/Standard_Parts/I2C_Shelf_Screw_4.step,Separate solid component
+I2C Shelf Nut 4,1,0,,Parts/Standard_Parts/I2C_Shelf_Nut_4.step,Separate solid component
+I2C Interface Shelf,1,0,Parts/Chassis/I2C_Interface_Shelf.solidcraft,Parts/Chassis/I2C_Interface_Shelf.step,Sketch and feature source
+Limit and Lock Expander MCP23017 A,1,0,,Parts/Standard_Parts/Limit_and_Lock_Expander_MCP23017_A.step,Separate solid component
+Limit and Lock Expander MCP23017 A Mount 1 Standoff,1,0,Parts/Chassis/Limit_and_Lock_Expander_MCP23017_A_Mount_1_Standoff.solidcraft,Parts/Chassis/Limit_and_Lock_Expander_MCP23017_A_Mount_1_Standoff.step,Sketch and feature source
+Limit and Lock Expander MCP23017 A Mount 1 Screw,1,0,,Parts/Standard_Parts/Limit_and_Lock_Expander_MCP23017_A_Mount_1_Screw.step,Separate solid component
+Limit and Lock Expander MCP23017 A Mount 1 Nut,1,0,,Parts/Standard_Parts/Limit_and_Lock_Expander_MCP23017_A_Mount_1_Nut.step,Separate solid component
+Limit and Lock Expander MCP23017 A Mount 2 Standoff,1,0,Parts/Chassis/Limit_and_Lock_Expander_MCP23017_A_Mount_2_Standoff.solidcraft,Parts/Chassis/Limit_and_Lock_Expander_MCP23017_A_Mount_2_Standoff.step,Sketch and feature source
+Limit and Lock Expander MCP23017 A Mount 2 Screw,1,0,,Parts/Standard_Parts/Limit_and_Lock_Expander_MCP23017_A_Mount_2_Screw.step,Separate solid component
+Limit and Lock Expander MCP23017 A Mount 2 Nut,1,0,,Parts/Standard_Parts/Limit_and_Lock_Expander_MCP23017_A_Mount_2_Nut.step,Separate solid component
+Limit and Lock Expander MCP23017 A Mount 3 Standoff,1,0,Parts/Chassis/Limit_and_Lock_Expander_MCP23017_A_Mount_3_Standoff.solidcraft,Parts/Chassis/Limit_and_Lock_Expander_MCP23017_A_Mount_3_Standoff.step,Sketch and feature source
+Limit and Lock Expander MCP23017 A Mount 3 Screw,1,0,,Parts/Standard_Parts/Limit_and_Lock_Expander_MCP23017_A_Mount_3_Screw.step,Separate solid component
+Limit and Lock Expander MCP23017 A Mount 3 Nut,1,0,,Parts/Standard_Parts/Limit_and_Lock_Expander_MCP23017_A_Mount_3_Nut.step,Separate solid component
+Limit and Lock Expander MCP23017 A Mount 4 Standoff,1,0,Parts/Chassis/Limit_and_Lock_Expander_MCP23017_A_Mount_4_Standoff.solidcraft,Parts/Chassis/Limit_and_Lock_Expander_MCP23017_A_Mount_4_Standoff.step,Sketch and feature source
+Limit and Lock Expander MCP23017 A Mount 4 Screw,1,0,,Parts/Standard_Parts/Limit_and_Lock_Expander_MCP23017_A_Mount_4_Screw.step,Separate solid component
+Limit and Lock Expander MCP23017 A Mount 4 Nut,1,0,,Parts/Standard_Parts/Limit_and_Lock_Expander_MCP23017_A_Mount_4_Nut.step,Separate solid component
+Limit and Lock Expander MCP23017 B,1,0,,Parts/Standard_Parts/Limit_and_Lock_Expander_MCP23017_B.step,Separate solid component
+Limit and Lock Expander MCP23017 B Mount 1 Standoff,1,0,Parts/Chassis/Limit_and_Lock_Expander_MCP23017_B_Mount_1_Standoff.solidcraft,Parts/Chassis/Limit_and_Lock_Expander_MCP23017_B_Mount_1_Standoff.step,Sketch and feature source
+Limit and Lock Expander MCP23017 B Mount 1 Screw,1,0,,Parts/Standard_Parts/Limit_and_Lock_Expander_MCP23017_B_Mount_1_Screw.step,Separate solid component
+Limit and Lock Expander MCP23017 B Mount 1 Nut,1,0,,Parts/Standard_Parts/Limit_and_Lock_Expander_MCP23017_B_Mount_1_Nut.step,Separate solid component
+Limit and Lock Expander MCP23017 B Mount 2 Standoff,1,0,Parts/Chassis/Limit_and_Lock_Expander_MCP23017_B_Mount_2_Standoff.solidcraft,Parts/Chassis/Limit_and_Lock_Expander_MCP23017_B_Mount_2_Standoff.step,Sketch and feature source
+Limit and Lock Expander MCP23017 B Mount 2 Screw,1,0,,Parts/Standard_Parts/Limit_and_Lock_Expander_MCP23017_B_Mount_2_Screw.step,Separate solid component
+Limit and Lock Expander MCP23017 B Mount 2 Nut,1,0,,Parts/Standard_Parts/Limit_and_Lock_Expander_MCP23017_B_Mount_2_Nut.step,Separate solid component
+Limit and Lock Expander MCP23017 B Mount 3 Standoff,1,0,Parts/Chassis/Limit_and_Lock_Expander_MCP23017_B_Mount_3_Standoff.solidcraft,Parts/Chassis/Limit_and_Lock_Expander_MCP23017_B_Mount_3_Standoff.step,Sketch and feature source
+Limit and Lock Expander MCP23017 B Mount 3 Screw,1,0,,Parts/Standard_Parts/Limit_and_Lock_Expander_MCP23017_B_Mount_3_Screw.step,Separate solid component
+Limit and Lock Expander MCP23017 B Mount 3 Nut,1,0,,Parts/Standard_Parts/Limit_and_Lock_Expander_MCP23017_B_Mount_3_Nut.step,Separate solid component
+Limit and Lock Expander MCP23017 B Mount 4 Standoff,1,0,Parts/Chassis/Limit_and_Lock_Expander_MCP23017_B_Mount_4_Standoff.solidcraft,Parts/Chassis/Limit_and_Lock_Expander_MCP23017_B_Mount_4_Standoff.step,Sketch and feature source
+Limit and Lock Expander MCP23017 B Mount 4 Screw,1,0,,Parts/Standard_Parts/Limit_and_Lock_Expander_MCP23017_B_Mount_4_Screw.step,Separate solid component
+Limit and Lock Expander MCP23017 B Mount 4 Nut,1,0,,Parts/Standard_Parts/Limit_and_Lock_Expander_MCP23017_B_Mount_4_Nut.step,Separate solid component
+Battery Energy Sensor INA219,1,0,,Parts/Standard_Parts/Battery_Energy_Sensor_INA219.step,Separate solid component
+Battery Energy Sensor INA219 Mount 1 Standoff,1,0,Parts/Chassis/Battery_Energy_Sensor_INA219_Mount_1_Standoff.solidcraft,Parts/Chassis/Battery_Energy_Sensor_INA219_Mount_1_Standoff.step,Sketch and feature source
+Battery Energy Sensor INA219 Mount 1 Screw,1,0,,Parts/Standard_Parts/Battery_Energy_Sensor_INA219_Mount_1_Screw.step,Separate solid component
+Battery Energy Sensor INA219 Mount 1 Nut,1,0,,Parts/Standard_Parts/Battery_Energy_Sensor_INA219_Mount_1_Nut.step,Separate solid component
+Battery Energy Sensor INA219 Mount 2 Standoff,1,0,Parts/Chassis/Battery_Energy_Sensor_INA219_Mount_2_Standoff.solidcraft,Parts/Chassis/Battery_Energy_Sensor_INA219_Mount_2_Standoff.step,Sketch and feature source
+Battery Energy Sensor INA219 Mount 2 Screw,1,0,,Parts/Standard_Parts/Battery_Energy_Sensor_INA219_Mount_2_Screw.step,Separate solid component
+Battery Energy Sensor INA219 Mount 2 Nut,1,0,,Parts/Standard_Parts/Battery_Energy_Sensor_INA219_Mount_2_Nut.step,Separate solid component
+Battery Energy Sensor INA219 Mount 3 Standoff,1,0,Parts/Chassis/Battery_Energy_Sensor_INA219_Mount_3_Standoff.solidcraft,Parts/Chassis/Battery_Energy_Sensor_INA219_Mount_3_Standoff.step,Sketch and feature source
+Battery Energy Sensor INA219 Mount 3 Screw,1,0,,Parts/Standard_Parts/Battery_Energy_Sensor_INA219_Mount_3_Screw.step,Separate solid component
+Battery Energy Sensor INA219 Mount 3 Nut,1,0,,Parts/Standard_Parts/Battery_Energy_Sensor_INA219_Mount_3_Nut.step,Separate solid component
+Battery Energy Sensor INA219 Mount 4 Standoff,1,0,Parts/Chassis/Battery_Energy_Sensor_INA219_Mount_4_Standoff.solidcraft,Parts/Chassis/Battery_Energy_Sensor_INA219_Mount_4_Standoff.step,Sketch and feature source
+Battery Energy Sensor INA219 Mount 4 Screw,1,0,,Parts/Standard_Parts/Battery_Energy_Sensor_INA219_Mount_4_Screw.step,Separate solid component
+Battery Energy Sensor INA219 Mount 4 Nut,1,0,,Parts/Standard_Parts/Battery_Energy_Sensor_INA219_Mount_4_Nut.step,Separate solid component
+Chassis Attitude Sensor MPU6050,1,0,,Parts/Standard_Parts/Chassis_Attitude_Sensor_MPU6050.step,Separate solid component
+Chassis Attitude Sensor MPU6050 Mount 1 Standoff,1,0,Parts/Chassis/Chassis_Attitude_Sensor_MPU6050_Mount_1_Standoff.solidcraft,Parts/Chassis/Chassis_Attitude_Sensor_MPU6050_Mount_1_Standoff.step,Sketch and feature source
+Chassis Attitude Sensor MPU6050 Mount 1 Screw,1,0,,Parts/Standard_Parts/Chassis_Attitude_Sensor_MPU6050_Mount_1_Screw.step,Separate solid component
+Chassis Attitude Sensor MPU6050 Mount 1 Nut,1,0,,Parts/Standard_Parts/Chassis_Attitude_Sensor_MPU6050_Mount_1_Nut.step,Separate solid component
+Chassis Attitude Sensor MPU6050 Mount 2 Standoff,1,0,Parts/Chassis/Chassis_Attitude_Sensor_MPU6050_Mount_2_Standoff.solidcraft,Parts/Chassis/Chassis_Attitude_Sensor_MPU6050_Mount_2_Standoff.step,Sketch and feature source
+Chassis Attitude Sensor MPU6050 Mount 2 Screw,1,0,,Parts/Standard_Parts/Chassis_Attitude_Sensor_MPU6050_Mount_2_Screw.step,Separate solid component
+Chassis Attitude Sensor MPU6050 Mount 2 Nut,1,0,,Parts/Standard_Parts/Chassis_Attitude_Sensor_MPU6050_Mount_2_Nut.step,Separate solid component
+Chassis Attitude Sensor MPU6050 Mount 3 Standoff,1,0,Parts/Chassis/Chassis_Attitude_Sensor_MPU6050_Mount_3_Standoff.solidcraft,Parts/Chassis/Chassis_Attitude_Sensor_MPU6050_Mount_3_Standoff.step,Sketch and feature source
+Chassis Attitude Sensor MPU6050 Mount 3 Screw,1,0,,Parts/Standard_Parts/Chassis_Attitude_Sensor_MPU6050_Mount_3_Screw.step,Separate solid component
+Chassis Attitude Sensor MPU6050 Mount 3 Nut,1,0,,Parts/Standard_Parts/Chassis_Attitude_Sensor_MPU6050_Mount_3_Nut.step,Separate solid component
+Chassis Attitude Sensor MPU6050 Mount 4 Standoff,1,0,Parts/Chassis/Chassis_Attitude_Sensor_MPU6050_Mount_4_Standoff.solidcraft,Parts/Chassis/Chassis_Attitude_Sensor_MPU6050_Mount_4_Standoff.step,Sketch and feature source
+Chassis Attitude Sensor MPU6050 Mount 4 Screw,1,0,,Parts/Standard_Parts/Chassis_Attitude_Sensor_MPU6050_Mount_4_Screw.step,Separate solid component
+Chassis Attitude Sensor MPU6050 Mount 4 Nut,1,0,,Parts/Standard_Parts/Chassis_Attitude_Sensor_MPU6050_Mount_4_Nut.step,Separate solid component
+Emergency Stop Switch,1,0,,Parts/Standard_Parts/Emergency_Stop_Switch.step,Separate solid component
+Emergency Stop Panel Nut,1,0,,Parts/Standard_Parts/Emergency_Stop_Panel_Nut.step,Separate solid component
+Camera Mount Screw 1,1,0,,Parts/Standard_Parts/Camera_Mount_Screw_1.step,Separate solid component
+Camera Mount Nut 1,1,0,,Parts/Standard_Parts/Camera_Mount_Nut_1.step,Separate solid component
+Camera Mount Screw 2,1,0,,Parts/Standard_Parts/Camera_Mount_Screw_2.step,Separate solid component
+Camera Mount Nut 2,1,0,,Parts/Standard_Parts/Camera_Mount_Nut_2.step,Separate solid component
+Camera Mount Screw 3,1,0,,Parts/Standard_Parts/Camera_Mount_Screw_3.step,Separate solid component
+Camera Mount Nut 3,1,0,,Parts/Standard_Parts/Camera_Mount_Nut_3.step,Separate solid component
+Camera Mount Screw 4,1,0,,Parts/Standard_Parts/Camera_Mount_Screw_4.step,Separate solid component
+Camera Mount Nut 4,1,0,,Parts/Standard_Parts/Camera_Mount_Nut_4.step,Separate solid component
+Camera Clip Bracket,1,0,Parts/Chassis/Camera_Clip_Bracket.solidcraft,Parts/Chassis/Camera_Clip_Bracket.step,Sketch and feature source
+Observation Camera ESP32 CAM,1,0,,Parts/Standard_Parts/Observation_Camera_ESP32_CAM.step,Separate solid component
+Ballast Load Washer 2 Left,1,0,,Parts/Standard_Parts/Ballast_Load_Washer_2_Left.step,Separate solid component
+Ballast Support Tube 2 Left,1,0,Parts/Chassis/Ballast_Support_Tube_2_Left.solidcraft,Parts/Chassis/Ballast_Support_Tube_2_Left.step,Sketch and feature source
+Ballast Load Washer 2 Right,1,0,,Parts/Standard_Parts/Ballast_Load_Washer_2_Right.step,Separate solid component
+Ballast Support Tube 2 Right,1,0,Parts/Chassis/Ballast_Support_Tube_2_Right.solidcraft,Parts/Chassis/Ballast_Support_Tube_2_Right.step,Sketch and feature source
+Ballast Load Washer 3 Left,1,0,,Parts/Standard_Parts/Ballast_Load_Washer_3_Left.step,Separate solid component
+Ballast Support Tube 3 Left,1,0,Parts/Chassis/Ballast_Support_Tube_3_Left.solidcraft,Parts/Chassis/Ballast_Support_Tube_3_Left.step,Sketch and feature source
+Ballast Load Washer 3 Right,1,0,,Parts/Standard_Parts/Ballast_Load_Washer_3_Right.step,Separate solid component
+Ballast Support Tube 3 Right,1,0,Parts/Chassis/Ballast_Support_Tube_3_Right.solidcraft,Parts/Chassis/Ballast_Support_Tube_3_Right.step,Sketch and feature source
+Ballast Tray Mount Washer -90 -51.5,1,0,,Parts/Standard_Parts/Ballast_Tray_Mount_Washer_-90_-51_5.step,Separate solid component
+Ballast Tray Mount Nut -90 -51.5,1,0,,Parts/Standard_Parts/Ballast_Tray_Mount_Nut_-90_-51_5.step,Separate solid component
+Ballast Tray Mount Washer -90 51.5,1,0,,Parts/Standard_Parts/Ballast_Tray_Mount_Washer_-90_51_5.step,Separate solid component
+Ballast Tray Mount Nut -90 51.5,1,0,,Parts/Standard_Parts/Ballast_Tray_Mount_Nut_-90_51_5.step,Separate solid component
+Ballast Tray Mount Washer 75 -51.5,1,0,,Parts/Standard_Parts/Ballast_Tray_Mount_Washer_75_-51_5.step,Separate solid component
+Ballast Tray Mount Nut 75 -51.5,1,0,,Parts/Standard_Parts/Ballast_Tray_Mount_Nut_75_-51_5.step,Separate solid component
+Ballast Tray Mount Washer 75 51.5,1,0,,Parts/Standard_Parts/Ballast_Tray_Mount_Washer_75_51_5.step,Separate solid component
+Ballast Tray Mount Nut 75 51.5,1,0,,Parts/Standard_Parts/Ballast_Tray_Mount_Nut_75_51_5.step,Separate solid component
+Ballast Tray,1,0,Parts/Chassis/Ballast_Tray.solidcraft,Parts/Chassis/Ballast_Tray.step,Sketch and feature source
+Example Test Weight Plate 1,1,0,Parts/Chassis/Example_Test_Weight_Plate_1.solidcraft,Parts/Chassis/Example_Test_Weight_Plate_1.step,Sketch and feature source
+Example Test Weight Plate 2,1,0,Parts/Chassis/Example_Test_Weight_Plate_2.solidcraft,Parts/Chassis/Example_Test_Weight_Plate_2.step,Sketch and feature source
+Ballast End Stop Rear,1,0,Parts/Chassis/Ballast_End_Stop_Rear.solidcraft,Parts/Chassis/Ballast_End_Stop_Rear.step,Sketch and feature source
+Ballast End Stop Screw Rear,1,0,,Parts/Standard_Parts/Ballast_End_Stop_Screw_Rear.step,Separate solid component
+Ballast End Stop Washer Rear,1,0,,Parts/Standard_Parts/Ballast_End_Stop_Washer_Rear.step,Separate solid component
+Ballast End Stop Nut Rear,1,0,,Parts/Standard_Parts/Ballast_End_Stop_Nut_Rear.step,Separate solid component
+Ballast End Stop Front,1,0,Parts/Chassis/Ballast_End_Stop_Front.solidcraft,Parts/Chassis/Ballast_End_Stop_Front.step,Sketch and feature source
+Ballast End Stop Screw Front,1,0,,Parts/Standard_Parts/Ballast_End_Stop_Screw_Front.step,Separate solid component
+Ballast End Stop Washer Front,1,0,,Parts/Standard_Parts/Ballast_End_Stop_Washer_Front.step,Separate solid component
+Ballast End Stop Nut Front,1,0,,Parts/Standard_Parts/Ballast_End_Stop_Nut_Front.step,Separate solid component
+Ballast Retaining Stud -51.5,1,0,,Parts/Standard_Parts/Ballast_Retaining_Stud_-51_5.step,Separate solid component
+Ballast Stud Protective Cap -51.5,1,0,Parts/Chassis/Ballast_Stud_Protective_Cap_-51_5.solidcraft,Parts/Chassis/Ballast_Stud_Protective_Cap_-51_5.step,Sketch and feature source
+Ballast Stud Lower Washer -51.5,1,0,,Parts/Standard_Parts/Ballast_Stud_Lower_Washer_-51_5.step,Separate solid component
+Ballast Stud Lower Nut -51.5,1,0,,Parts/Standard_Parts/Ballast_Stud_Lower_Nut_-51_5.step,Separate solid component
+Ballast Stud Lock Nut -51.5,1,0,,Parts/Standard_Parts/Ballast_Stud_Lock_Nut_-51_5.step,Separate solid component
+Ballast Clamp Washer -51.5,1,0,,Parts/Standard_Parts/Ballast_Clamp_Washer_-51_5.step,Separate solid component
+Ballast Wing Nut -51.5,1,0,,Parts/Standard_Parts/Ballast_Wing_Nut_-51_5.step,Separate solid component
+Ballast Retaining Stud 51.5,1,0,,Parts/Standard_Parts/Ballast_Retaining_Stud_51_5.step,Separate solid component
+Ballast Stud Protective Cap 51.5,1,0,Parts/Chassis/Ballast_Stud_Protective_Cap_51_5.solidcraft,Parts/Chassis/Ballast_Stud_Protective_Cap_51_5.step,Sketch and feature source
+Ballast Stud Lower Washer 51.5,1,0,,Parts/Standard_Parts/Ballast_Stud_Lower_Washer_51_5.step,Separate solid component
+Ballast Stud Lower Nut 51.5,1,0,,Parts/Standard_Parts/Ballast_Stud_Lower_Nut_51_5.step,Separate solid component
+Ballast Stud Lock Nut 51.5,1,0,,Parts/Standard_Parts/Ballast_Stud_Lock_Nut_51_5.step,Separate solid component
+Ballast Clamp Washer 51.5,1,0,,Parts/Standard_Parts/Ballast_Clamp_Washer_51_5.step,Separate solid component
+Ballast Wing Nut 51.5,1,0,,Parts/Standard_Parts/Ballast_Wing_Nut_51_5.step,Separate solid component
+Ballast Retaining Bar,1,0,Parts/Chassis/Ballast_Retaining_Bar.solidcraft,Parts/Chassis/Ballast_Retaining_Bar.step,Sketch and feature source
+Top Cover Panel 1,1,0,Parts/Chassis/Top_Cover_Panel_1.solidcraft,Parts/Chassis/Top_Cover_Panel_1.step,Sketch and feature source
+Top Cover Panel 2,1,0,Parts/Chassis/Top_Cover_Panel_2.solidcraft,Parts/Chassis/Top_Cover_Panel_2.step,Sketch and feature source
+Top Cover Panel 3,1,0,Parts/Chassis/Top_Cover_Panel_3.solidcraft,Parts/Chassis/Top_Cover_Panel_3.step,Sketch and feature source
+Cover Joint Screw 1 -146.5 -250,1,0,,Parts/Standard_Parts/Cover_Joint_Screw_1_-146_5_-250.step,Separate solid component
+Cover Joint Washer 1 -146.5 -250,1,0,,Parts/Standard_Parts/Cover_Joint_Washer_1_-146_5_-250.step,Separate solid component
+Cover Joint Nut 1 -146.5 -250,1,0,,Parts/Standard_Parts/Cover_Joint_Nut_1_-146_5_-250.step,Separate solid component
+Cover Joint Screw 1 -146.5 0,1,0,,Parts/Standard_Parts/Cover_Joint_Screw_1_-146_5_0.step,Separate solid component
+Cover Joint Washer 1 -146.5 0,1,0,,Parts/Standard_Parts/Cover_Joint_Washer_1_-146_5_0.step,Separate solid component
+Cover Joint Nut 1 -146.5 0,1,0,,Parts/Standard_Parts/Cover_Joint_Nut_1_-146_5_0.step,Separate solid component
+Cover Joint Screw 1 -146.5 250,1,0,,Parts/Standard_Parts/Cover_Joint_Screw_1_-146_5_250.step,Separate solid component
+Cover Joint Washer 1 -146.5 250,1,0,,Parts/Standard_Parts/Cover_Joint_Washer_1_-146_5_250.step,Separate solid component
+Cover Joint Nut 1 -146.5 250,1,0,,Parts/Standard_Parts/Cover_Joint_Nut_1_-146_5_250.step,Separate solid component
+Cover Joint Screw 1 -134.5 -250,1,0,,Parts/Standard_Parts/Cover_Joint_Screw_1_-134_5_-250.step,Separate solid component
+Cover Joint Washer 1 -134.5 -250,1,0,,Parts/Standard_Parts/Cover_Joint_Washer_1_-134_5_-250.step,Separate solid component
+Cover Joint Nut 1 -134.5 -250,1,0,,Parts/Standard_Parts/Cover_Joint_Nut_1_-134_5_-250.step,Separate solid component
+Cover Joint Screw 1 -134.5 0,1,0,,Parts/Standard_Parts/Cover_Joint_Screw_1_-134_5_0.step,Separate solid component
+Cover Joint Washer 1 -134.5 0,1,0,,Parts/Standard_Parts/Cover_Joint_Washer_1_-134_5_0.step,Separate solid component
+Cover Joint Nut 1 -134.5 0,1,0,,Parts/Standard_Parts/Cover_Joint_Nut_1_-134_5_0.step,Separate solid component
+Cover Joint Screw 1 -134.5 250,1,0,,Parts/Standard_Parts/Cover_Joint_Screw_1_-134_5_250.step,Separate solid component
+Cover Joint Washer 1 -134.5 250,1,0,,Parts/Standard_Parts/Cover_Joint_Washer_1_-134_5_250.step,Separate solid component
+Cover Joint Nut 1 -134.5 250,1,0,,Parts/Standard_Parts/Cover_Joint_Nut_1_-134_5_250.step,Separate solid component
+Top Cover Joint Strip 1,1,0,Parts/Chassis/Top_Cover_Joint_Strip_1.solidcraft,Parts/Chassis/Top_Cover_Joint_Strip_1.step,Sketch and feature source
+Cover Joint Screw 2 76.5 -250,1,0,,Parts/Standard_Parts/Cover_Joint_Screw_2_76_5_-250.step,Separate solid component
+Cover Joint Washer 2 76.5 -250,1,0,,Parts/Standard_Parts/Cover_Joint_Washer_2_76_5_-250.step,Separate solid component
+Cover Joint Nut 2 76.5 -250,1,0,,Parts/Standard_Parts/Cover_Joint_Nut_2_76_5_-250.step,Separate solid component
+Cover Joint Screw 2 76.5 0,1,0,,Parts/Standard_Parts/Cover_Joint_Screw_2_76_5_0.step,Separate solid component
+Cover Joint Washer 2 76.5 0,1,0,,Parts/Standard_Parts/Cover_Joint_Washer_2_76_5_0.step,Separate solid component
+Cover Joint Nut 2 76.5 0,1,0,,Parts/Standard_Parts/Cover_Joint_Nut_2_76_5_0.step,Separate solid component
+Cover Joint Screw 2 76.5 250,1,0,,Parts/Standard_Parts/Cover_Joint_Screw_2_76_5_250.step,Separate solid component
+Cover Joint Washer 2 76.5 250,1,0,,Parts/Standard_Parts/Cover_Joint_Washer_2_76_5_250.step,Separate solid component
+Cover Joint Nut 2 76.5 250,1,0,,Parts/Standard_Parts/Cover_Joint_Nut_2_76_5_250.step,Separate solid component
+Cover Joint Screw 2 88.5 -250,1,0,,Parts/Standard_Parts/Cover_Joint_Screw_2_88_5_-250.step,Separate solid component
+Cover Joint Washer 2 88.5 -250,1,0,,Parts/Standard_Parts/Cover_Joint_Washer_2_88_5_-250.step,Separate solid component
+Cover Joint Nut 2 88.5 -250,1,0,,Parts/Standard_Parts/Cover_Joint_Nut_2_88_5_-250.step,Separate solid component
+Cover Joint Screw 2 88.5 0,1,0,,Parts/Standard_Parts/Cover_Joint_Screw_2_88_5_0.step,Separate solid component
+Cover Joint Washer 2 88.5 0,1,0,,Parts/Standard_Parts/Cover_Joint_Washer_2_88_5_0.step,Separate solid component
+Cover Joint Nut 2 88.5 0,1,0,,Parts/Standard_Parts/Cover_Joint_Nut_2_88_5_0.step,Separate solid component
+Cover Joint Screw 2 88.5 250,1,0,,Parts/Standard_Parts/Cover_Joint_Screw_2_88_5_250.step,Separate solid component
+Cover Joint Washer 2 88.5 250,1,0,,Parts/Standard_Parts/Cover_Joint_Washer_2_88_5_250.step,Separate solid component
+Cover Joint Nut 2 88.5 250,1,0,,Parts/Standard_Parts/Cover_Joint_Nut_2_88_5_250.step,Separate solid component
+Top Cover Joint Strip 2,1,0,Parts/Chassis/Top_Cover_Joint_Strip_2.solidcraft,Parts/Chassis/Top_Cover_Joint_Strip_2.step,Sketch and feature source
+Roof Support Arm 1 Left,1,0,Parts/Chassis/Roof_Support_Arm_1_Left.solidcraft,Parts/Chassis/Roof_Support_Arm_1_Left.step,Sketch and feature source
+Roof Arm Wall Screw 1 Left 29,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Screw_1_Left_29.step,Separate solid component
+Roof Arm Wall Nut 1 Left 29,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Nut_1_Left_29.step,Separate solid component
+Roof Arm Wall Washer 1 Left 29,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Washer_1_Left_29.step,Separate solid component
+Roof Arm Wall Screw 1 Left 36,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Screw_1_Left_36.step,Separate solid component
+Roof Arm Wall Nut 1 Left 36,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Nut_1_Left_36.step,Separate solid component
+Roof Arm Wall Washer 1 Left 36,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Washer_1_Left_36.step,Separate solid component
+Roof Arm Cover Screw 1 Left,1,0,,Parts/Standard_Parts/Roof_Arm_Cover_Screw_1_Left.step,Separate solid component
+Roof Arm Cover Washer 1 Left,1,0,,Parts/Standard_Parts/Roof_Arm_Cover_Washer_1_Left.step,Separate solid component
+Roof Arm Cover Nut 1 Left,1,0,,Parts/Standard_Parts/Roof_Arm_Cover_Nut_1_Left.step,Separate solid component
+Roof Support Arm 1 Right,1,0,Parts/Chassis/Roof_Support_Arm_1_Right.solidcraft,Parts/Chassis/Roof_Support_Arm_1_Right.step,Sketch and feature source
+Roof Arm Wall Screw 1 Right 29,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Screw_1_Right_29.step,Separate solid component
+Roof Arm Wall Nut 1 Right 29,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Nut_1_Right_29.step,Separate solid component
+Roof Arm Wall Washer 1 Right 29,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Washer_1_Right_29.step,Separate solid component
+Roof Arm Wall Screw 1 Right 36,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Screw_1_Right_36.step,Separate solid component
+Roof Arm Wall Nut 1 Right 36,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Nut_1_Right_36.step,Separate solid component
+Roof Arm Wall Washer 1 Right 36,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Washer_1_Right_36.step,Separate solid component
+Roof Arm Cover Screw 1 Right,1,0,,Parts/Standard_Parts/Roof_Arm_Cover_Screw_1_Right.step,Separate solid component
+Roof Arm Cover Washer 1 Right,1,0,,Parts/Standard_Parts/Roof_Arm_Cover_Washer_1_Right.step,Separate solid component
+Roof Arm Cover Nut 1 Right,1,0,,Parts/Standard_Parts/Roof_Arm_Cover_Nut_1_Right.step,Separate solid component
+Roof Support Arm 2 Left,1,0,Parts/Chassis/Roof_Support_Arm_2_Left.solidcraft,Parts/Chassis/Roof_Support_Arm_2_Left.step,Sketch and feature source
+Roof Arm Wall Screw 2 Left 29,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Screw_2_Left_29.step,Separate solid component
+Roof Arm Wall Nut 2 Left 29,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Nut_2_Left_29.step,Separate solid component
+Roof Arm Wall Washer 2 Left 29,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Washer_2_Left_29.step,Separate solid component
+Roof Arm Wall Screw 2 Left 36,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Screw_2_Left_36.step,Separate solid component
+Roof Arm Wall Nut 2 Left 36,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Nut_2_Left_36.step,Separate solid component
+Roof Arm Wall Washer 2 Left 36,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Washer_2_Left_36.step,Separate solid component
+Roof Arm Cover Screw 2 Left,1,0,,Parts/Standard_Parts/Roof_Arm_Cover_Screw_2_Left.step,Separate solid component
+Roof Arm Cover Washer 2 Left,1,0,,Parts/Standard_Parts/Roof_Arm_Cover_Washer_2_Left.step,Separate solid component
+Roof Arm Cover Nut 2 Left,1,0,,Parts/Standard_Parts/Roof_Arm_Cover_Nut_2_Left.step,Separate solid component
+Roof Support Arm 2 Right,1,0,Parts/Chassis/Roof_Support_Arm_2_Right.solidcraft,Parts/Chassis/Roof_Support_Arm_2_Right.step,Sketch and feature source
+Roof Arm Wall Screw 2 Right 29,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Screw_2_Right_29.step,Separate solid component
+Roof Arm Wall Nut 2 Right 29,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Nut_2_Right_29.step,Separate solid component
+Roof Arm Wall Washer 2 Right 29,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Washer_2_Right_29.step,Separate solid component
+Roof Arm Wall Screw 2 Right 36,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Screw_2_Right_36.step,Separate solid component
+Roof Arm Wall Nut 2 Right 36,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Nut_2_Right_36.step,Separate solid component
+Roof Arm Wall Washer 2 Right 36,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Washer_2_Right_36.step,Separate solid component
+Roof Arm Cover Screw 2 Right,1,0,,Parts/Standard_Parts/Roof_Arm_Cover_Screw_2_Right.step,Separate solid component
+Roof Arm Cover Washer 2 Right,1,0,,Parts/Standard_Parts/Roof_Arm_Cover_Washer_2_Right.step,Separate solid component
+Roof Arm Cover Nut 2 Right,1,0,,Parts/Standard_Parts/Roof_Arm_Cover_Nut_2_Right.step,Separate solid component
+Roof Support Arm 3 Left,1,0,Parts/Chassis/Roof_Support_Arm_3_Left.solidcraft,Parts/Chassis/Roof_Support_Arm_3_Left.step,Sketch and feature source
+Roof Arm Wall Screw 3 Left 29,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Screw_3_Left_29.step,Separate solid component
+Roof Arm Wall Nut 3 Left 29,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Nut_3_Left_29.step,Separate solid component
+Roof Arm Wall Washer 3 Left 29,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Washer_3_Left_29.step,Separate solid component
+Roof Arm Wall Screw 3 Left 36,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Screw_3_Left_36.step,Separate solid component
+Roof Arm Wall Nut 3 Left 36,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Nut_3_Left_36.step,Separate solid component
+Roof Arm Wall Washer 3 Left 36,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Washer_3_Left_36.step,Separate solid component
+Roof Arm Cover Screw 3 Left,1,0,,Parts/Standard_Parts/Roof_Arm_Cover_Screw_3_Left.step,Separate solid component
+Roof Arm Cover Washer 3 Left,1,0,,Parts/Standard_Parts/Roof_Arm_Cover_Washer_3_Left.step,Separate solid component
+Roof Arm Cover Nut 3 Left,1,0,,Parts/Standard_Parts/Roof_Arm_Cover_Nut_3_Left.step,Separate solid component
+Roof Support Arm 3 Right,1,0,Parts/Chassis/Roof_Support_Arm_3_Right.solidcraft,Parts/Chassis/Roof_Support_Arm_3_Right.step,Sketch and feature source
+Roof Arm Wall Screw 3 Right 29,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Screw_3_Right_29.step,Separate solid component
+Roof Arm Wall Nut 3 Right 29,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Nut_3_Right_29.step,Separate solid component
+Roof Arm Wall Washer 3 Right 29,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Washer_3_Right_29.step,Separate solid component
+Roof Arm Wall Screw 3 Right 36,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Screw_3_Right_36.step,Separate solid component
+Roof Arm Wall Nut 3 Right 36,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Nut_3_Right_36.step,Separate solid component
+Roof Arm Wall Washer 3 Right 36,1,0,,Parts/Standard_Parts/Roof_Arm_Wall_Washer_3_Right_36.step,Separate solid component
+Roof Arm Cover Screw 3 Right,1,0,,Parts/Standard_Parts/Roof_Arm_Cover_Screw_3_Right.step,Separate solid component
+Roof Arm Cover Washer 3 Right,1,0,,Parts/Standard_Parts/Roof_Arm_Cover_Washer_3_Right.step,Separate solid component
+Roof Arm Cover Nut 3 Right,1,0,,Parts/Standard_Parts/Roof_Arm_Cover_Nut_3_Right.step,Separate solid component
+Guide Support M2 Insert 1,6,1,,Parts/Standard_Parts/Guide_Support_M2_Insert_1.step,Separate solid component
+Guide Support M2 Insert 2,6,1,,Parts/Standard_Parts/Guide_Support_M2_Insert_2.step,Separate solid component
+Spindle Collar M2 Insert 1,6,1,,Parts/Standard_Parts/Spindle_Collar_M2_Insert_1.step,Separate solid component
+Spindle Collar M2 Insert 2,6,1,,Parts/Standard_Parts/Spindle_Collar_M2_Insert_2.step,Separate solid component
+Spindle Collar M2 Insert 3,6,1,,Parts/Standard_Parts/Spindle_Collar_M2_Insert_3.step,Separate solid component
+Chassis Accelerometer Mount,1,0,Parts/Sensors/Chassis_Accelerometer_Mount.solidcraft,Parts/Sensors/Chassis_Accelerometer_Mount.step,Sketch and feature source
+Chassis Vibration Sensor Rigid Bond,1,0,,Parts/Standard_Parts/Chassis_Vibration_Sensor_Rigid_Bond.step,Separate solid component
+Chassis Vibration Sensor ADXL345 Board,1,0,,Parts/Standard_Parts/Chassis_Vibration_Sensor_ADXL345_Board.step,Separate solid component
+Chassis Vibration Sensor ADXL345 Package,1,0,,Parts/Standard_Parts/Chassis_Vibration_Sensor_ADXL345_Package.step,Separate solid component
+Chassis Vibration Sensor SPI Header,1,0,,Parts/Standard_Parts/Chassis_Vibration_Sensor_SPI_Header.step,Separate solid component
+Accelerometer Edge Clamp,6,2,Parts/Sensors/Accelerometer_Edge_Clamp.solidcraft,Parts/Sensors/Accelerometer_Edge_Clamp.step,Sketch and feature source
+Chassis Vibration Sensor M2 Insert 1,1,0,,Parts/Standard_Parts/Chassis_Vibration_Sensor_M2_Insert_1.step,Separate solid component
+Chassis Vibration Sensor M2 Clamp Screw 1,1,0,,Parts/Standard_Parts/Chassis_Vibration_Sensor_M2_Clamp_Screw_1.step,Separate solid component
+Chassis Vibration Sensor M2 Insert 2,1,0,,Parts/Standard_Parts/Chassis_Vibration_Sensor_M2_Insert_2.step,Separate solid component
+Chassis Vibration Sensor M2 Clamp Screw 2,1,0,,Parts/Standard_Parts/Chassis_Vibration_Sensor_M2_Clamp_Screw_2.step,Separate solid component
+Carrier Accelerometer Bracket,2,1,Parts/Sensors/Carrier_Accelerometer_Bracket.solidcraft,Parts/Sensors/Carrier_Accelerometer_Bracket.step,Sketch and feature source
+Right Carrier Vibration Sensor ADXL345 Board,1,1,,Parts/Standard_Parts/Right_Carrier_Vibration_Sensor_ADXL345_Board.step,Separate solid component
+Right Carrier Vibration Sensor ADXL345 Package,1,1,,Parts/Standard_Parts/Right_Carrier_Vibration_Sensor_ADXL345_Package.step,Separate solid component
+Right Carrier Vibration Sensor SPI Header,1,1,,Parts/Standard_Parts/Right_Carrier_Vibration_Sensor_SPI_Header.step,Separate solid component
+Right Carrier Vibration Sensor M2 Insert 1,1,1,,Parts/Standard_Parts/Right_Carrier_Vibration_Sensor_M2_Insert_1.step,Separate solid component
+Right Carrier Vibration Sensor M2 Clamp Screw 1,1,1,,Parts/Standard_Parts/Right_Carrier_Vibration_Sensor_M2_Clamp_Screw_1.step,Separate solid component
+Right Carrier Vibration Sensor M2 Insert 2,1,1,,Parts/Standard_Parts/Right_Carrier_Vibration_Sensor_M2_Insert_2.step,Separate solid component
+Right Carrier Vibration Sensor M2 Clamp Screw 2,1,1,,Parts/Standard_Parts/Right_Carrier_Vibration_Sensor_M2_Clamp_Screw_2.step,Separate solid component
+Left Carrier Vibration Sensor ADXL345 Board,1,0,,Parts/Standard_Parts/Left_Carrier_Vibration_Sensor_ADXL345_Board.step,Separate solid component
+Left Carrier Vibration Sensor ADXL345 Package,1,0,,Parts/Standard_Parts/Left_Carrier_Vibration_Sensor_ADXL345_Package.step,Separate solid component
+Left Carrier Vibration Sensor SPI Header,1,0,,Parts/Standard_Parts/Left_Carrier_Vibration_Sensor_SPI_Header.step,Separate solid component
+Left Carrier Vibration Sensor M2 Insert 1,1,0,,Parts/Standard_Parts/Left_Carrier_Vibration_Sensor_M2_Insert_1.step,Separate solid component
+Left Carrier Vibration Sensor M2 Clamp Screw 1,1,0,,Parts/Standard_Parts/Left_Carrier_Vibration_Sensor_M2_Clamp_Screw_1.step,Separate solid component
+Left Carrier Vibration Sensor M2 Insert 2,1,0,,Parts/Standard_Parts/Left_Carrier_Vibration_Sensor_M2_Insert_2.step,Separate solid component
+Left Carrier Vibration Sensor M2 Clamp Screw 2,1,0,,Parts/Standard_Parts/Left_Carrier_Vibration_Sensor_M2_Clamp_Screw_2.step,Separate solid component
+Chassis Interface Section,0,1,,Parts/Standard_Parts/Chassis_Interface_Section.step,Separate solid component
+Encoder Carrier Bracket,1,1,Parts/Suspension/Encoder_Carrier_Bracket.solidcraft,Parts/Suspension/Encoder_Carrier_Bracket.step,Sketch and feature source
+Encoder Board Edge Clamp 1,1,1,Parts/Suspension/Encoder_Board_Edge_Clamp_1.solidcraft,Parts/Suspension/Encoder_Board_Edge_Clamp_1.step,Sketch and feature source
+Encoder Board Edge Clamp 2,1,1,Parts/Suspension/Encoder_Board_Edge_Clamp_2.solidcraft,Parts/Suspension/Encoder_Board_Edge_Clamp_2.step,Sketch and feature source
+Encoder Shaft Adapter,1,1,Parts/Suspension/Encoder_Shaft_Adapter.solidcraft,Parts/Suspension/Encoder_Shaft_Adapter.step,Sketch and feature source
+Driven Wheel Carrier and Motor Mount,2,0,,Parts/Drive/Driven_Wheel_Carrier_and_Motor_Mount.step,Closed solid; native feature reconstruction incomplete
+Driven Wheel Carrier and Motor Mount Left,2,0,,Parts/Drive/Driven_Wheel_Carrier_and_Motor_Mount_Left.step,Closed solid; native feature reconstruction incomplete
